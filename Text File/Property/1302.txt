@@ -1,0 +1,340 @@
+Page Name : 1302.gpg
+
+
+Node ID : 1302100041	Position X : 956	Position Y : 23
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 1	Page Name : 100
+Soft Key : Do not use	Icon : home001.png	Password : 0
+
+Node ID : 1302100044	Position X : 850	Position Y : 23
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 1	Page Name : 100
+Soft Key : F16	Icon : return005.png	Password : 0
+
+Node ID : 1302100045	Position X : 903	Position Y : 23
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 1	Page Name : 115
+Soft Key : Do not use	Icon : menu002.png	Password : 0
+
+Node ID : 1302200071	Position X : 303	Position Y : 92
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302200072	Position X : 397	Position Y : 92
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302200073	Position X : 304	Position Y : 24
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302200074	Position X : 397	Position Y : 24
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302200075	Position X : 304	Position Y : 58
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302200076	Position X : 397	Position Y : 58
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302100001	Position X : 545	Position Y : 616
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 641017	Cursor Order : 1002
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
+Password : 0
+
+Node ID : 1302200077	Position X : 328	Position Y : 263
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302200078	Position X : 77	Position Y : 228
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302200079	Position X : 77	Position Y : 178
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13022000710	Position X : 77	Position Y : 260
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302200111	Position X : 251	Position Y : 162
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Group Box
+
+Node ID : 1302300041	Position X : 312	Position Y : 182
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 640230	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
+Node ID : 13022000711	Position X : 367	Position Y : 178
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302300042	Position X : 546	Position Y : 182
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 640230	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
+Node ID : 13022000712	Position X : 601	Position Y : 178
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13022000713	Position X : 328	Position Y : 231
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13022000714	Position X : 328	Position Y : 362
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13022000715	Position X : 328	Position Y : 330
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13022000716	Position X : 328	Position Y : 430
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13022000717	Position X : 328	Position Y : 398
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302300051	Position X : 287	Position Y : 430
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Action	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 0	Start Bit : 0
+End Bit : 0	Mask : 0001	State Sum : 2
+
+Node ID : 1302300001	Position X : 498	Position Y : 331
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0400	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 1302300002	Position X : 498	Position Y : 363
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0500	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 1302300003	Position X : 498	Position Y : 399
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0600	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 1302300004	Position X : 498	Position Y : 431
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0700	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 13022000718	Position X : 641	Position Y : 431
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13022000719	Position X : 641	Position Y : 330
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302100002	Position X : 73	Position Y : 616
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 641017	Cursor Order : 1000
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
+Password : 0
+
+Node ID : 1302100003	Position X : 292	Position Y : 616
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 641017	Cursor Order : 1001
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
+Password : 0
+
+Node ID : 1302100004	Position X : 764	Position Y : 616
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 641017	Cursor Order : 1003
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
+Password : 0
+
+Node ID : 13022000720	Position X : 77	Position Y : 476
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13022000721	Position X : 28	Position Y : 518
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13022000722	Position X : 116	Position Y : 561
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302300005	Position X : 217	Position Y : 519
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0800	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 1302300006	Position X : 217	Position Y : 564
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0900	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 13022000723	Position X : 670	Position Y : 518
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13022000724	Position X : 758	Position Y : 561
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302300007	Position X : 856	Position Y : 519
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0802	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 1302300008	Position X : 856	Position Y : 564
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0902	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 13022000725	Position X : 352	Position Y : 518
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13022000726	Position X : 440	Position Y : 561
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1302300009	Position X : 541	Position Y : 519
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0801	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 13023000010	Position X : 541	Position Y : 564
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0901	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 13022000727	Position X : 792	Position Y : 181
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13023000011	Position X : 822	Position Y : 220
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0102	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 13022000728	Position X : 792	Position Y : 260
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13023000012	Position X : 822	Position Y : 299
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0300	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 13022000729	Position X : 792	Position Y : 345
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 13023000013	Position X : 822	Position Y : 384
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0501	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 13023000014	Position X : 498	Position Y : 229
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0101	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 13023000015	Position X : 498	Position Y : 261
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0201	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 13023000016	Position X : 115	Position Y : 229
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0100	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 13023000017	Position X : 115	Position Y : 261
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 642171	Value Type : ULong
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 65536	Min : 0	Max E.V. : 0
+Cursor Order : 0200	Enable Mode : All	Level : 0
+Integer Digits : 1	Precision : 7	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+

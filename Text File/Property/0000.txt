@@ -1,0 +1,7 @@
+Page Name : 0000.gpg
+
+
+Node ID : 200031	Position X : 103	Position Y : 226
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Photo	Photo Name : logo1024x443.png
+

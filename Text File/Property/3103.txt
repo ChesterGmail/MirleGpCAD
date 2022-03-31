@@ -1,0 +1,19 @@
+Page Name : 3103.gpg
+
+
+Node ID : 3103300011	Position X : 46	Position Y : 52
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Text	Address : 204071	Cursor Order : 0000
+Enable Mode : All	Level : 1
+
+Node ID : 3103200072	Position X : 83	Position Y : 17
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : ±K½X
+
+Node ID : 3103100001	Position X : 85	Position Y : 109.98
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 208337	Cursor Order : 0100
+Enable Mode : All	Level : 1	Input Mode : SWITCH
+Value : 9000	Value 2 : 0	Icon : 
+Text : ½T»{	Password : 0
+

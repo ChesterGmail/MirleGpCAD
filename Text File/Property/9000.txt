@@ -1,0 +1,48 @@
+Template Name : 9000.gpt
+
+
+Node ID : 9000100041	Position X : 956	Position Y : 23
+Display Addr. : 0	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 1	Page Name : 100
+Soft Key : Do not use	Icon : home001.png	Text : 
+Password : 0
+
+Node ID : 9000100044	Position X : 850	Position Y : 23
+Display Addr. : 0	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 1	Page Name : 100
+Soft Key : F16	Icon : return005.png	Text : 
+Password : 0
+
+Node ID : 9000100045	Position X : 903	Position Y : 23
+Display Addr. : 0	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 1	Page Name : 115
+Soft Key : Do not use	Icon : menu002.png	Text : 
+Password : 0
+
+Node ID : 9000200071	Position X : 303	Position Y : 92
+Display Addr. : 0	Mask(Display Addr.) : 0000
+Type : Label	Text : 版本編號
+
+Node ID : 9000200072	Position X : 397	Position Y : 92
+Display Addr. : 0	Mask(Display Addr.) : 0000
+Type : Label	Text : v1.0.0.0
+
+Node ID : 9000200073	Position X : 304	Position Y : 24
+Display Addr. : 0	Mask(Display Addr.) : 0000
+Type : Label	Text : 日期
+
+Node ID : 9000200074	Position X : 397	Position Y : 24
+Display Addr. : 0	Mask(Display Addr.) : 0000
+Type : Label	Text : 2022/03/23
+
+Node ID : 9000200075	Position X : 304	Position Y : 58
+Display Addr. : 0	Mask(Display Addr.) : 0000
+Type : Label	Text : 時間
+
+Node ID : 9000200076	Position X : 397	Position Y : 58
+Display Addr. : 0	Mask(Display Addr.) : 0000
+Type : Label	Text : 13:25:00
+
