@@ -46,21 +46,21 @@ Node ID : 206200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Label	Text : 13:25:00
 
-Node ID : 206200111	Position X : 517	Position Y : 154
+Node ID : 206200111	Position X : 517	Position Y : 152
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : 
 
-Node ID : 206200112	Position X : 29	Position Y : 154
+Node ID : 206200112	Position X : 29	Position Y : 152
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : 
 
-Node ID : 206200077	Position X : 142	Position Y : 480
+Node ID : 206200077	Position X : 146	Position Y : 480
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 條燈--藍色(後車)
+Type : Label	Text : -
 
-Node ID : 206200078	Position X : 142	Position Y : 600
+Node ID : 206200078	Position X : 146	Position Y : 600
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 清除超級電容警報
+Type : Label	Text : -
 
 Node ID : 206300041	Position X : 38	Position Y : 175
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -68,9 +68,9 @@ Type : Switch	Address : 651001	Cursor Order : 0000
 Enable Mode : All	Level : 6	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 206200079	Position X : 638	Position Y : 180
+Node ID : 206200079	Position X : 642	Position Y : 180
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 所有步進驅動器警報消除
+Type : Label	Text : 入料輸送 CW
 
 Node ID : 206300042	Position X : 528	Position Y : 175
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -258,249 +258,57 @@ Type : Switch	Address : 651016	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2062000710	Position X : 638	Position Y : 240
+Node ID : 2062000710	Position X : 642	Position Y : 240
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : AreaSnr4Port_1(後車)
+Type : Label	Text : 入料輸送 啟動
 
-Node ID : 2062000711	Position X : 638	Position Y : 270
+Node ID : 2062000711	Position X : 642	Position Y : 269
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : AreaSnr4Port_2(後車)
+Type : Label	Text : 入料輸送 停止
 
-Node ID : 2062000712	Position X : 638	Position Y : 300
+Node ID : 2062000712	Position X : 642	Position Y : 300
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : AreaSnr4Port_3(後車)
+Type : Label	Text : 入料輸送 速度
 
-Node ID : 2062000713	Position X : 638	Position Y : 330
+Node ID : 2062000713	Position X : 642	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : AreaSnr4Port_4(後車)
+Type : Label	Text : 入料輸送 INV RESET
 
-Node ID : 2062000714	Position X : 638	Position Y : 360
+Node ID : 2062000714	Position X : 642	Position Y : 360
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : AreaSnr4Port_5(後車)
+Type : Label	Text : 入料輸送 STP.上升
 
-Node ID : 2062000715	Position X : 142	Position Y : 180
+Node ID : 2062000715	Position X : 146	Position Y : 179
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 前車轉向_右上左下(P4 左上右下))
+Type : Label	Text : RED TOWER LP-1
 
-Node ID : 2062000716	Position X : 142	Position Y : 210
+Node ID : 2062000716	Position X : 146	Position Y : 210
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 前車轉向_左上右下(P4 右上左下)
+Type : Label	Text : YELLOW TOWER LP-2
 
-Node ID : 2062000717	Position X : 142	Position Y : 240
+Node ID : 2062000717	Position X : 146	Position Y : 240
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 防墜伸出移動觸發
+Type : Label	Text : GREEN TOWER LP-3
 
-Node ID : 2062000718	Position X : 142	Position Y : 270
+Node ID : 2062000718	Position X : 146	Position Y : 270
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 防墜收合移動觸發
+Type : Label	Text : BUZZER  警報1
 
-Node ID : 2062000719	Position X : 142	Position Y : 300
+Node ID : 2062000719	Position X : 146	Position Y : 300
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 後車轉向_右上左下(P4 左上右下)
+Type : Label	Text : EMO RESET PL
 
-Node ID : 2062000720	Position X : 142	Position Y : 330
+Node ID : 2062000720	Position X : 146	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 後車轉向_左上右下(P4 右上左下)
+Type : Label	Text : POWER ON  PL
 
-Node ID : 2062000721	Position X : 142	Position Y : 420
+Node ID : 2062000721	Position X : 146	Position Y : 420
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 條燈--紅色(後車)
+Type : Label	Text : -
 
-Node ID : 2062000722	Position X : 142	Position Y : 450
+Node ID : 2062000722	Position X : 146	Position Y : 450
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 條燈--綠色(後車)
-
-Node ID : 206300051	Position X : 105	Position Y : 175
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651001	Cursor Order : 0200
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 206300052	Position X : 105	Position Y : 205
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651002	Cursor Order : 0300
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 206300053	Position X : 105	Position Y : 235
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651003	Cursor Order : 0400
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 206300054	Position X : 105	Position Y : 265
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651004	Cursor Order : 0500
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 206300055	Position X : 105	Position Y : 325
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651006	Cursor Order : 0700
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 206300056	Position X : 105	Position Y : 385
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651008	Cursor Order : 0900
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 206300057	Position X : 105	Position Y : 445
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651010	Cursor Order : 1100
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 206300058	Position X : 105	Position Y : 535
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651013	Cursor Order : 1400
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 206300059	Position X : 105	Position Y : 295
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651005	Cursor Order : 0600
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000510	Position X : 105	Position Y : 355
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651007	Cursor Order : 0800
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000511	Position X : 105	Position Y : 415
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651009	Cursor Order : 1000
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000512	Position X : 105	Position Y : 505
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651012	Cursor Order : 1300
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000513	Position X : 105	Position Y : 475
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651011	Cursor Order : 1200
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000514	Position X : 105	Position Y : 565
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651014	Cursor Order : 1500
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000515	Position X : 105	Position Y : 595
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651015	Cursor Order : 1600
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000516	Position X : 105	Position Y : 625
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651016	Cursor Order : 1700
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000517	Position X : 597	Position Y : 175
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651017	Cursor Order : 0201
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000518	Position X : 597	Position Y : 205
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651018	Cursor Order : 0301
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000519	Position X : 597	Position Y : 235
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651019	Cursor Order : 0401
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000520	Position X : 597	Position Y : 265
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651020	Cursor Order : 0501
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000521	Position X : 597	Position Y : 325
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651022	Cursor Order : 0701
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000522	Position X : 597	Position Y : 385
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651024	Cursor Order : 0901
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000523	Position X : 597	Position Y : 445
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651026	Cursor Order : 1101
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000524	Position X : 597	Position Y : 535
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651029	Cursor Order : 1401
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000525	Position X : 597	Position Y : 295
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651021	Cursor Order : 0601
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000526	Position X : 597	Position Y : 355
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651023	Cursor Order : 0801
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000527	Position X : 597	Position Y : 415
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651025	Cursor Order : 1001
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000528	Position X : 597	Position Y : 505
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651028	Cursor Order : 1301
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000529	Position X : 597	Position Y : 475
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651027	Cursor Order : 1201
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000530	Position X : 597	Position Y : 565
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651030	Cursor Order : 1501
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000531	Position X : 597	Position Y : 595
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651031	Cursor Order : 1601
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
-
-Node ID : 2063000532	Position X : 597	Position Y : 625
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Action	Address : 651032	Cursor Order : 1701
-Enable Mode : All	Level : 0	Start Bit : 0
-End Bit : 0	Mask : 0001	State Sum : 2
+Type : Label	Text : -
 
 Node ID : 206100042	Position X : 850	Position Y : 89
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -509,107 +317,326 @@ Enable Mode : All	Level : 1	Page Name : 207
 Soft Key : Do not use	Icon : next009.jpg	Text : 
 Password : 0
 
-Node ID : 2063000433	Position X : 38	Position Y : 99
+Node ID : 2062000723	Position X : 146	Position Y : 570
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 641015	Cursor Order : 0100
-Enable Mode : Manual	Level : 0	Input Mode : SWITCH
-Input Value 1 : 0	Input Value 2 : 1	Mask : 000F
+Type : Label	Text : -
 
-Node ID : 2062000723	Position X : 142	Position Y : 570
+Node ID : 2062000724	Position X : 146	Position Y : 509
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 條燈--藍色(前車)
+Type : Label	Text : -
 
-Node ID : 2062000724	Position X : 142	Position Y : 510
+Node ID : 2062000725	Position X : 146	Position Y : 540
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 條燈--紅色(前車)
+Type : Label	Text : -
 
-Node ID : 2062000725	Position X : 142	Position Y : 540
+Node ID : 2062000726	Position X : 642	Position Y : 450
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 條燈--綠色(前車)
+Type : Label	Text : 入料輸送 VCR 異常清除
 
-Node ID : 2062000726	Position X : 638	Position Y : 450
+Node ID : 2062000727	Position X : 642	Position Y : 480
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : A點卡控Pass
+Type : Label	Text : 出料輸送 CW
 
-Node ID : 2062000727	Position X : 638	Position Y : 480
+Node ID : 206100001	Position X : 108	Position Y : 175
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : B點卡控Pass
+Type : Push Button	Address : 656001	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
 
-Node ID : 206100043	Position X : 78	Position Y : 669
+Node ID : 206100002	Position X : 108	Position Y : 205
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656002	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 206100003	Position X : 108	Position Y : 235
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656003	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 206100004	Position X : 108	Position Y : 265
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656004	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 206100005	Position X : 108	Position Y : 295
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656005	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 206100006	Position X : 108	Position Y : 325
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656006	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 206100007	Position X : 108	Position Y : 355
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656007	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 206100008	Position X : 108	Position Y : 384
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656008	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 206100009	Position X : 108	Position Y : 415
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656009	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000010	Position X : 108	Position Y : 445
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656010	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000011	Position X : 108	Position Y : 475
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656011	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000012	Position X : 108	Position Y : 505
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656012	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000013	Position X : 108	Position Y : 534
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656013	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000014	Position X : 108	Position Y : 565
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656014	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000015	Position X : 108	Position Y : 595
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656015	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000016	Position X : 108	Position Y : 625
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656016	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 206100043	Position X : 135	Position Y : 675
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1100
 Enable Mode : All	Level : 0	Page Name : 201
-Soft Key : Do not use	Icon : 	Text : 輸入點-1
+Soft Key : Do not use	Icon : 	Text : Input (1)
 Password : 0
 
-Node ID : 206100046	Position X : 372	Position Y : 669
+Node ID : 206100046	Position X : 445	Position Y : 676
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
-Enable Mode : All	Level : 0	Page Name : 206
-Soft Key : Do not use	Icon : 	Text : 輸出點-1
+Enable Mode : All	Level : 0	Page Name : 203
+Soft Key : Do not use	Icon : 	Text : Input (3)
 Password : 0
 
-Node ID : 206100047	Position X : 666	Position Y : 669
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 1104
-Enable Mode : All	Level : 0	Page Name : 905
-Soft Key : Do not use	Icon : 	Text : 快速操作
-Password : 0
-
-Node ID : 206100048	Position X : 813	Position Y : 669
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 1105
-Enable Mode : All	Level : 0	Page Name : 906
-Soft Key : Do not use	Icon : 	Text : 歸原點操作
-Password : 0
-
-Node ID : 206100049	Position X : 225	Position Y : 669
+Node ID : 206100047	Position X : 290	Position Y : 676
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 202
-Soft Key : Do not use	Icon : 	Text : 輸入點-2
+Soft Key : Do not use	Icon : 	Text : Input (2)
 Password : 0
 
-Node ID : 2061000410	Position X : 519	Position Y : 669
+Node ID : 206100048	Position X : 755	Position Y : 676
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 207
-Soft Key : Do not use	Icon : 	Text : 輸出點-2
+Soft Key : Do not use	Icon : 	Text : Output (2)
 Password : 0
 
-Node ID : 2063000434	Position X : 270	Position Y : 445
+Node ID : 206100049	Position X : 600	Position Y : 676
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 600010	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
-Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+Type : Page Button	Address : 0	Cursor Order : 1103
+Enable Mode : All	Level : 0	Page Name : 206
+Soft Key : Do not use	Icon : 	Text : Output (1)
+Password : 0
 
-Node ID : 2063000435	Position X : 270	Position Y : 535
+Node ID : 2061000017	Position X : 599	Position Y : 177
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 600013	Cursor Order : 0000
+Type : Push Button	Address : 656017	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
 
-Node ID : 2063000436	Position X : 270	Position Y : 475
+Node ID : 2061000018	Position X : 599	Position Y : 207
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 600011	Cursor Order : 0000
+Type : Push Button	Address : 656018	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
 
-Node ID : 2063000437	Position X : 270	Position Y : 565
+Node ID : 2061000019	Position X : 599	Position Y : 237
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 600014	Cursor Order : 0000
+Type : Push Button	Address : 656019	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
 
-Node ID : 2063000438	Position X : 270	Position Y : 415
+Node ID : 2061000020	Position X : 599	Position Y : 267
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 600009	Cursor Order : 0000
+Type : Push Button	Address : 656020	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
 
-Node ID : 2063000439	Position X : 270	Position Y : 505
+Node ID : 2061000021	Position X : 599	Position Y : 297
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 600012	Cursor Order : 0000
+Type : Push Button	Address : 656021	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000022	Position X : 599	Position Y : 327
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656022	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000023	Position X : 599	Position Y : 357
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656023	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000024	Position X : 599	Position Y : 387
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656024	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000025	Position X : 599	Position Y : 417
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656025	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000026	Position X : 599	Position Y : 447
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656026	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000027	Position X : 599	Position Y : 477
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656027	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000028	Position X : 599	Position Y : 507
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656028	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000029	Position X : 599	Position Y : 537
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656029	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000030	Position X : 599	Position Y : 567
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656030	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000031	Position X : 599	Position Y : 597
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656031	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2061000032	Position X : 599	Position Y : 627
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 656032	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 1	Icon : Auto.png
+Text : 	Password : 0
+
+Node ID : 2062000728	Position X : 146	Position Y : 356
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : POWER OFF PL
+
+Node ID : 2062000729	Position X : 146	Position Y : 383
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : -
+
+Node ID : 2062000730	Position X : 146	Position Y : 625
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : MIPC READY(預留)
+
+Node ID : 2062000731	Position X : 642	Position Y : 209
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : 入料輸送 CCW
+
+Node ID : 2062000732	Position X : 642	Position Y : 386
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : 入料輸送 STP.下降
+
+Node ID : 2062000733	Position X : 642	Position Y : 418
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : 入料輸送 VCR 讀取觸發
+
+Node ID : 2062000734	Position X : 642	Position Y : 508
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : 出料輸送 CCW
+
+Node ID : 2062000735	Position X : 642	Position Y : 538
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : 出料輸送 啟動
+
+Node ID : 2062000736	Position X : 642	Position Y : 566
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : 出料輸送 停止
+
+Node ID : 2062000737	Position X : 642	Position Y : 595
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : 出料輸送 速度
+
+Node ID : 2062000738	Position X : 642	Position Y : 624
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : 出料輸送 INV RESET
 

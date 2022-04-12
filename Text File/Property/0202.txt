@@ -56,27 +56,27 @@ Type : Group Box	Text :
 
 Node ID : 202200077	Position X : 113	Position Y : 480
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 OUT6
+Type : Label	Text : 主機θ 定位檢8(出料位置)
 
 Node ID : 202200078	Position X : 113	Position Y : 510
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 OUT8
+Type : Label	Text : 主機θ 插銷檢
 
 Node ID : 202200079	Position X : 113	Position Y : 570
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 OUT10
+Type : Label	Text : 維修門插銷檢1
 
 Node ID : 2022000710	Position X : 113	Position Y : 540
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 OUT9
+Type : Label	Text : 維修門上鎖檢1
 
 Node ID : 2022000711	Position X : 113	Position Y : 600
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 OUT12
+Type : Label	Text : 維修門上鎖檢2
 
 Node ID : 2022000712	Position X : 113	Position Y : 630
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 OUT13
+Type : Label	Text : 維修門插銷檢2
 
 Node ID : 202300041	Position X : 38	Position Y : 175
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -86,7 +86,7 @@ Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 Node ID : 2022000713	Position X : 603	Position Y : 180
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 OUT15
+Type : Label	Text : 入料Fork 原點
 
 Node ID : 202300042	Position X : 528	Position Y : 175
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -276,87 +276,87 @@ Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 Node ID : 2022000714	Position X : 603	Position Y : 210
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 後車前左上軌道檢知
+Type : Label	Text : 入料Fork 正極限
 
 Node ID : 2022000715	Position X : 603	Position Y : 240
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 後車後左上軌道檢知
+Type : Label	Text : 入料Fork 負極限
 
 Node ID : 2022000716	Position X : 603	Position Y : 270
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 左下軌超速檢知
+Type : Label	Text : 入料Fork 料倉有無檢
 
 Node ID : 2022000717	Position X : 603	Position Y : 300
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 右下軌超速檢知
+Type : Label	Text : 入料Fork 在席檢
 
 Node ID : 2022000718	Position X : 603	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : All_TrogViaDO_Step_Alarm
+Type : Label	Text : 入料Fork 緩衝檢
 
 Node ID : 2022000719	Position X : 603	Position Y : 600
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 前車轉向左下右上位檢知_B接點
+Type : Label	Text : 主機Z 插銷檢
 
 Node ID : 2022000720	Position X : 603	Position Y : 565
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 前車入彎檢知(右)
+Type : Label	Text : 主機Z 定位檢
 
-Node ID : 2022000721	Position X : 603	Position Y : 450
+Node ID : 2022000721	Position X : 603	Position Y : 447
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 解煞車開關(遙控轉向DRIVER)
+Type : Label	Text : 入料Fork 夾爪放
 
 Node ID : 2022000722	Position X : 113	Position Y : 180
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : AreaSnr4Port_Notify1_Far-B
+Type : Label	Text : 主機θ 原點
 
 Node ID : 2022000723	Position X : 113	Position Y : 210
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : AreaSnr4Port_Notify2_Midway-B
+Type : Label	Text : 主機θ 正極限
 
 Node ID : 2022000724	Position X : 113	Position Y : 240
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : AreaSnr4Port_Notify3_Near-B
+Type : Label	Text : 主機θ 負極限
 
 Node ID : 2022000725	Position X : 113	Position Y : 270
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : AreaSnr4Port_MalFunction-B
+Type : Label	Text : 主機θ 定位檢1
 
 Node ID : 2022000726	Position X : 113	Position Y : 300
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 STB
+Type : Label	Text : 主機θ 定位檢2
 
 Node ID : 2022000727	Position X : 113	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 OUT1
+Type : Label	Text : 主機θ 定位檢3
 
 Node ID : 2022000728	Position X : 113	Position Y : 360
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 OUT2
+Type : Label	Text : 主機θ 定位檢4
 
 Node ID : 2022000729	Position X : 113	Position Y : 390
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 OUT3
+Type : Label	Text : 主機θ 定位檢5
 
 Node ID : 2022000730	Position X : 113	Position Y : 420
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 OUT4
+Type : Label	Text : 主機θ 定位檢6
 
 Node ID : 2022000731	Position X : 113	Position Y : 450
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1光學受信器 OUT5
+Type : Label	Text : 主機θ 定位檢7(入料位置)
 
 Node ID : 2022000732	Position X : 603	Position Y : 630
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 前車轉向左上右下位檢知
+Type : Label	Text : CDA 氣壓低下
 
 Node ID : 2022000733	Position X : 603	Position Y : 390
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : BRS1授信器_OUT7
+Type : Label	Text : 入料Fork ALI縮回
 
-Node ID : 2022000734	Position X : 603	Position Y : 415
+Node ID : 2022000734	Position X : 603	Position Y : 416
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 轉向及防墜 DRIVER Q編程停止
+Type : Label	Text : 入料Fork 夾爪夾
 
 Node ID : 202100042	Position X : 850	Position Y : 89
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -365,61 +365,54 @@ Enable Mode : All	Level : 1	Page Name : 206
 Soft Key : Do not use	Icon : next009.jpg	Text : 
 Password : 0
 
-Node ID : 202100043	Position X : 78	Position Y : 669
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 1100
-Enable Mode : All	Level : 0	Page Name : 201
-Soft Key : Do not use	Icon : 	Text : 輸入點-1
-Password : 0
-
-Node ID : 202100046	Position X : 372	Position Y : 669
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 1102
-Enable Mode : All	Level : 0	Page Name : 206
-Soft Key : Do not use	Icon : 	Text : 輸出點-1
-Password : 0
-
-Node ID : 202100047	Position X : 666	Position Y : 669
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 1104
-Enable Mode : All	Level : 0	Page Name : 905
-Soft Key : Do not use	Icon : 	Text : 快速操作
-Password : 0
-
-Node ID : 202100048	Position X : 813	Position Y : 669
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 1105
-Enable Mode : All	Level : 0	Page Name : 906
-Soft Key : Do not use	Icon : 	Text : 歸原點操作
-Password : 0
-
-Node ID : 202100049	Position X : 225	Position Y : 669
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 1101
-Enable Mode : All	Level : 0	Page Name : 202
-Soft Key : Do not use	Icon : 	Text : 輸入點-2
-Password : 0
-
-Node ID : 2021000410	Position X : 519	Position Y : 669
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 1103
-Enable Mode : All	Level : 0	Page Name : 207
-Soft Key : Do not use	Icon : 	Text : 輸出點-2
-Password : 0
-
 Node ID : 2022000735	Position X : 603	Position Y : 360
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : EMO_BRS1光學授信器_OUT14
+Type : Label	Text : 入料Fork ALI伸出
 
-Node ID : 2022000736	Position X : 603	Position Y : 480
+Node ID : 2022000736	Position X : 603	Position Y : 476
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : PCB-51-IN9 Spare
+Type : Label	Text : 主機Z 原點
 
 Node ID : 2022000737	Position X : 603	Position Y : 510
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : PCB-51-IN10 Spare
+Type : Label	Text : 主機Z 正極限
 
 Node ID : 2022000738	Position X : 603	Position Y : 535
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 前車入彎檢知(左)
+Type : Label	Text : 主機Z 負極限
+
+Node ID : 202100043	Position X : 135	Position Y : 675
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 1100
+Enable Mode : All	Level : 0	Page Name : 201
+Soft Key : Do not use	Icon : 	Text : Input (1)
+Password : 0
+
+Node ID : 202100046	Position X : 445	Position Y : 676
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 1102
+Enable Mode : All	Level : 0	Page Name : 203
+Soft Key : Do not use	Icon : 	Text : Input (3)
+Password : 0
+
+Node ID : 202100047	Position X : 290	Position Y : 676
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 1101
+Enable Mode : All	Level : 0	Page Name : 202
+Soft Key : Do not use	Icon : 	Text : Input (2)
+Password : 0
+
+Node ID : 202100048	Position X : 755	Position Y : 676
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 1103
+Enable Mode : All	Level : 0	Page Name : 207
+Soft Key : Do not use	Icon : 	Text : Output (2)
+Password : 0
+
+Node ID : 202100049	Position X : 600	Position Y : 676
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 1103
+Enable Mode : All	Level : 0	Page Name : 206
+Soft Key : Do not use	Icon : 	Text : Output (1)
+Password : 0
 
