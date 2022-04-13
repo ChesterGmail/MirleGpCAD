@@ -69,42 +69,42 @@ Node ID : 100100001	Position X : 24	Position Y : 668
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 0	Cursor Order : 0200
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : 自動開始.png
+Value : 0	Value 2 : 1	Icon : 
 Text : 自動模式	Password : 0
 
 Node ID : 100100002	Position X : 188	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 0	Cursor Order : 0201
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : Refresh.png
+Value : 0	Value 2 : 0	Icon : 
 Text : 原點模式	Password : 0
 
 Node ID : 100100003	Position X : 352	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 0	Cursor Order : 0202
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : start.png
+Value : 0	Value 2 : 0	Icon : 
 Text : 啟動	Password : 0
 
 Node ID : 100100004	Position X : 516	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 0	Cursor Order : 0203
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : Pause.png
+Value : 0	Value 2 : 0	Icon : 
 Text : 暫停	Password : 0
 
 Node ID : 100100005	Position X : 680	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 0	Cursor Order : 0204
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : cancel3.png
+Value : 0	Value 2 : 0	Icon : 
 Text : 強制停止	Password : 0
 
 Node ID : 100100006	Position X : 844	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 0	Cursor Order : 0204
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : cancel2.png
+Value : 0	Value 2 : 0	Icon : 
 Text : 清除異常	Password : 0
 
 Node ID : 100200077	Position X : 102	Position Y : 216

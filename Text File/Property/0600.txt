@@ -1,0 +1,64 @@
+Page Name : 0600.gpg
+
+
+Node ID : 600100041	Position X : 956	Position Y : 23
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 1	Page Name : 100
+Soft Key : Do not use	Icon : home001.png	Text : 
+Password : 0
+
+Node ID : 600100044	Position X : 850	Position Y : 23
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 1	Page Name : 100
+Soft Key : F16	Icon : return005.png	Text : 
+Password : 0
+
+Node ID : 600100045	Position X : 903	Position Y : 23
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 1	Page Name : 115
+Soft Key : Do not use	Icon : menu002.png	Text : 
+Password : 0
+
+Node ID : 600200071	Position X : 303	Position Y : 92
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : 版本編號
+
+Node ID : 600200072	Position X : 397	Position Y : 92
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : v1.0.0.0
+
+Node ID : 600200073	Position X : 304	Position Y : 24
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : 日期
+
+Node ID : 600200074	Position X : 397	Position Y : 24
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : 2022/03/23
+
+Node ID : 600200075	Position X : 304	Position Y : 58
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : 時間
+
+Node ID : 600200076	Position X : 397	Position Y : 58
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : 13:25:00
+
+Node ID : 600200077	Position X : 50	Position Y : 199
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : 讀取結果
+
+Node ID : 600300011	Position X : 49	Position Y : 238
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Text	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 0
+
+Node ID : 600100001	Position X : 447	Position Y : 224
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Value : 0	Value 2 : 0	Icon : 
+Text : 讀取	Password : 0
+

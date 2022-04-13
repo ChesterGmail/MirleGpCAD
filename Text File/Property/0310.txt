@@ -294,7 +294,7 @@ Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657007	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Value : 1	Value 2 : 0	Icon : 
-Text : Jog+	Password : 0
+Text : Jog-	Password : 0
 
 Node ID : 3102000724	Position X : 962	Position Y : 354
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000

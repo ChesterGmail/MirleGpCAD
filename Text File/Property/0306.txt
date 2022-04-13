@@ -54,9 +54,9 @@ Node ID : 306200112	Position X : 183	Position Y : 158
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : Status
 
-Node ID : 306200113	Position X : 24	Position Y : 159
+Node ID : 306200113	Position X : 24	Position Y : 160
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : Status
+Type : Group Box	Text : IO Status
 
 Node ID : 306100042	Position X : 52	Position Y : 674
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -146,25 +146,25 @@ Type : Label	Text : Alarm
 
 Node ID : 306300041	Position X : 35	Position Y : 268
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 640230	Cursor Order : 0000
+Type : Switch	Address : 657226	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 Node ID : 306300042	Position X : 35	Position Y : 315
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 640230	Cursor Order : 0000
+Type : Switch	Address : 657227	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 Node ID : 306300043	Position X : 35	Position Y : 362
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 640230	Cursor Order : 0000
+Type : Switch	Address : 657228	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 Node ID : 306300044	Position X : 35	Position Y : 409
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 640230	Cursor Order : 0000
+Type : Switch	Address : 657229	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
@@ -174,7 +174,7 @@ Type : Label	Text : Servo On
 
 Node ID : 306300045	Position X : 36	Position Y : 220
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 640230	Cursor Order : 0000
+Type : Switch	Address : 657225	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
@@ -182,81 +182,81 @@ Node ID : 3062000712	Position X : 239	Position Y : 209
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : Position
 
-Node ID : 306300011	Position X : 362	Position Y : 208
+Node ID : 306300011	Position X : 362	Position Y : 207
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Text	Address : 0	Cursor Order : 0000
+Type : Text	Address : 657233	Cursor Order : 0000
 Enable Mode : All	Level : 0
 
-Node ID : 3062000714	Position X : 239	Position Y : 253
+Node ID : 3062000713	Position X : 239	Position Y : 253
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : Encoder
 
 Node ID : 306300012	Position X : 362	Position Y : 252
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Text	Address : 0	Cursor Order : 0000
+Type : Text	Address : 657234	Cursor Order : 0000
 Enable Mode : All	Level : 0
 
-Node ID : 3062000716	Position X : 239	Position Y : 300
+Node ID : 3062000714	Position X : 239	Position Y : 300
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : Speed
 
 Node ID : 306300013	Position X : 362	Position Y : 299
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Text	Address : 0	Cursor Order : 0000
+Type : Text	Address : 657235	Cursor Order : 0000
 Enable Mode : All	Level : 0
 
-Node ID : 3062000718	Position X : 239	Position Y : 347
+Node ID : 3062000715	Position X : 239	Position Y : 347
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : Acc Speed
 
 Node ID : 306300014	Position X : 362	Position Y : 346
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Text	Address : 0	Cursor Order : 0000
+Type : Text	Address : 657236	Cursor Order : 0000
 Enable Mode : All	Level : 0
 
-Node ID : 3062000720	Position X : 239	Position Y : 399
+Node ID : 3062000716	Position X : 239	Position Y : 399
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : Dec Speed
 
 Node ID : 306300015	Position X : 362	Position Y : 398
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Text	Address : 0	Cursor Order : 0000
+Type : Text	Address : 657237	Cursor Order : 0000
 Enable Mode : All	Level : 0
 
-Node ID : 306100002	Position X : 220	Position Y : 460
+Node ID : 306100001	Position X : 220	Position Y : 460
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0000
+Type : Push Button	Address : 657218	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
+Value : 1	Value 2 : 0	Icon : 
 Text : High Speed	Password : 0
 
-Node ID : 306100003	Position X : 361	Position Y : 460
+Node ID : 306100002	Position X : 361	Position Y : 460
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0000
+Type : Push Button	Address : 657219	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
+Value : 1	Value 2 : 0	Icon : 
 Text : Normal Speed	Password : 0
 
-Node ID : 306100004	Position X : 508	Position Y : 460
+Node ID : 306100003	Position X : 508	Position Y : 460
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0000
+Type : Push Button	Address : 657220	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
+Value : 1	Value 2 : 0	Icon : 
 Text : Low Speed	Password : 0
 
-Node ID : 3062000713	Position X : 534	Position Y : 208
+Node ID : 3062000717	Position X : 534	Position Y : 208
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : mm
 
-Node ID : 3062000715	Position X : 534	Position Y : 252
+Node ID : 3062000718	Position X : 534	Position Y : 252
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : mm
 
-Node ID : 3062000717	Position X : 534	Position Y : 299
+Node ID : 3062000719	Position X : 534	Position Y : 299
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : mm/s
 
-Node ID : 3062000719	Position X : 533	Position Y : 346
+Node ID : 3062000720	Position X : 533	Position Y : 346
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : mm/s2
 
@@ -264,11 +264,11 @@ Node ID : 3062000721	Position X : 535	Position Y : 398
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : mm/s2
 
-Node ID : 306100001	Position X : 690	Position Y : 504
+Node ID : 306100004	Position X : 690	Position Y : 504
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0000
+Type : Push Button	Address : 657216	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
+Value : 1	Value 2 : 0	Icon : 
 Text : Jog+	Password : 0
 
 Node ID : 3062000722	Position X : 688	Position Y : 466
@@ -277,7 +277,7 @@ Type : Label	Text : Jog Distance
 
 Node ID : 306300016	Position X : 810	Position Y : 464
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Text	Address : 0	Cursor Order : 0000
+Type : Text	Address : 657240	Cursor Order : 0000
 Enable Mode : All	Level : 0
 
 Node ID : 3062000723	Position X : 686	Position Y : 355
@@ -286,15 +286,15 @@ Type : Label	Text : Abs Position
 
 Node ID : 306300017	Position X : 809	Position Y : 353
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Text	Address : 0	Cursor Order : 0000
+Type : Text	Address : 657239	Cursor Order : 0000
 Enable Mode : All	Level : 0
 
 Node ID : 306100005	Position X : 835	Position Y : 504
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0000
+Type : Push Button	Address : 657217	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
-Text : Jog+	Password : 0
+Value : 1	Value 2 : 0	Icon : 
+Text : Jog-	Password : 0
 
 Node ID : 3062000724	Position X : 962	Position Y : 354
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -306,36 +306,41 @@ Type : Label	Text : mm
 
 Node ID : 306100006	Position X : 811	Position Y : 389
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0000
+Type : Push Button	Address : 657215	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
+Value : 1	Value 2 : 0	Icon : 
 Text : Move	Password : 0
 
 Node ID : 306100007	Position X : 690	Position Y : 196
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0000
+Type : Push Button	Address : 657211	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
+Value : 1	Value 2 : 0	Icon : 
 Text : Servo On	Password : 0
 
 Node ID : 306100008	Position X : 841	Position Y : 196
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0000
+Type : Push Button	Address : 657212	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
+Value : 1	Value 2 : 0	Icon : 
 Text : Servo Off	Password : 0
 
 Node ID : 306100009	Position X : 690	Position Y : 262
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0000
+Type : Push Button	Address : 657213	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
+Value : 1	Value 2 : 0	Icon : 
 Text : Home	Password : 0
 
 Node ID : 3061000010	Position X : 840	Position Y : 263
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0000
+Type : Push Button	Address : 657214	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
+Value : 1	Value 2 : 0	Icon : 
 Text : Stop	Password : 0
+
+Node ID : 306300018	Position X : 78	Position Y : 440
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Text	Address : 657230	Cursor Order : 0000
+Enable Mode : All	Level : 0
 

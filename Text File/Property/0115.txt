@@ -112,7 +112,7 @@ Password : 0
 Node ID : 1151000414	Position X : 74	Position Y : 392
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
-Enable Mode : All	Level : 0	Page Name : 2500
+Enable Mode : All	Level : 0	Page Name : 600
 Soft Key : Do not use	Icon : 	Text : Åª½X¾¹´ú¸Õ
 Password : 0
 
