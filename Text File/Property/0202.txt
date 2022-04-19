@@ -5,414 +5,415 @@ Node ID : 202100041	Position X : 956	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : home001.png	Text : 
-Password : 0
+Soft Key : Do not use	Icon : home001.png	Password : 0
 
 Node ID : 202100044	Position X : 850	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Text : 
-Password : 0
+Soft Key : F16	Icon : return005.png	Password : 0
 
 Node ID : 202100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
-Soft Key : Do not use	Icon : menu002.png	Text : 
-Password : 0
+Soft Key : Do not use	Icon : menu002.png	Password : 0
 
 Node ID : 202200071	Position X : 303	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 版本編號
+Type : Label
 
 Node ID : 202200072	Position X : 397	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : v1.0.0.0
+Type : Label
 
 Node ID : 202200073	Position X : 304	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 日期
+Type : Label
 
 Node ID : 202200074	Position X : 397	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 2022/03/23
+Type : Label
 
 Node ID : 202200075	Position X : 304	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 時間
+Type : Label
 
 Node ID : 202200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 13:25:00
+Type : Label
+
+Node ID : 202200077	Position X : 654	Position Y : 98
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 202300041	Position X : 607	Position Y : 97
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Switch	Address : 289999	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 Node ID : 202200111	Position X : 517	Position Y : 154
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 
+Type : Group Box
 
 Node ID : 202200112	Position X : 29	Position Y : 154
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 
+Type : Group Box
 
-Node ID : 202200077	Position X : 113	Position Y : 480
+Node ID : 202200078	Position X : 113	Position Y : 480
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機θ 定位檢8(出料位置)
+Type : Label
 
-Node ID : 202200078	Position X : 113	Position Y : 510
+Node ID : 202200079	Position X : 113	Position Y : 510
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機θ 插銷檢
+Type : Label
 
-Node ID : 202200079	Position X : 113	Position Y : 570
+Node ID : 2022000710	Position X : 113	Position Y : 570
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 維修門插銷檢1
+Type : Label
 
-Node ID : 2022000710	Position X : 113	Position Y : 540
+Node ID : 2022000711	Position X : 113	Position Y : 540
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 維修門上鎖檢1
+Type : Label
 
-Node ID : 2022000711	Position X : 113	Position Y : 600
+Node ID : 2022000712	Position X : 113	Position Y : 600
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 維修門上鎖檢2
+Type : Label
 
-Node ID : 2022000712	Position X : 113	Position Y : 630
+Node ID : 2022000713	Position X : 113	Position Y : 630
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 維修門插銷檢2
+Type : Label
 
-Node ID : 202300041	Position X : 38	Position Y : 175
+Node ID : 202300042	Position X : 38	Position Y : 175
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650033	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2022000713	Position X : 603	Position Y : 180
+Node ID : 2022000714	Position X : 603	Position Y : 180
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 入料Fork 原點
+Type : Label
 
-Node ID : 202300042	Position X : 528	Position Y : 175
+Node ID : 202300043	Position X : 528	Position Y : 175
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650049	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 202300043	Position X : 528	Position Y : 205
+Node ID : 202300044	Position X : 528	Position Y : 205
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650050	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 202300044	Position X : 528	Position Y : 295
+Node ID : 202300045	Position X : 528	Position Y : 295
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650053	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 202300045	Position X : 528	Position Y : 385
+Node ID : 202300046	Position X : 528	Position Y : 385
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650056	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 202300046	Position X : 528	Position Y : 235
+Node ID : 202300047	Position X : 528	Position Y : 235
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650051	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 202300047	Position X : 528	Position Y : 325
+Node ID : 202300048	Position X : 528	Position Y : 325
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650054	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 202300048	Position X : 528	Position Y : 445
+Node ID : 202300049	Position X : 528	Position Y : 445
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650058	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 202300049	Position X : 528	Position Y : 535
+Node ID : 2023000410	Position X : 528	Position Y : 535
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650061	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000410	Position X : 528	Position Y : 265
+Node ID : 2023000411	Position X : 528	Position Y : 265
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650052	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000411	Position X : 528	Position Y : 355
+Node ID : 2023000412	Position X : 528	Position Y : 355
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650055	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000412	Position X : 528	Position Y : 475
+Node ID : 2023000413	Position X : 528	Position Y : 475
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650059	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000413	Position X : 528	Position Y : 565
+Node ID : 2023000414	Position X : 528	Position Y : 565
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650062	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000414	Position X : 528	Position Y : 415
+Node ID : 2023000415	Position X : 528	Position Y : 415
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650057	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000415	Position X : 528	Position Y : 505
+Node ID : 2023000416	Position X : 528	Position Y : 505
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650060	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000416	Position X : 528	Position Y : 595
+Node ID : 2023000417	Position X : 528	Position Y : 595
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650063	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000417	Position X : 528	Position Y : 625
+Node ID : 2023000418	Position X : 528	Position Y : 625
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650064	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000418	Position X : 38	Position Y : 205
+Node ID : 2023000419	Position X : 38	Position Y : 205
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650034	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000419	Position X : 38	Position Y : 295
+Node ID : 2023000420	Position X : 38	Position Y : 295
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650037	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000420	Position X : 38	Position Y : 385
+Node ID : 2023000421	Position X : 38	Position Y : 385
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650040	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000421	Position X : 38	Position Y : 235
+Node ID : 2023000422	Position X : 38	Position Y : 235
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650035	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000422	Position X : 38	Position Y : 325
+Node ID : 2023000423	Position X : 38	Position Y : 325
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650038	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000423	Position X : 38	Position Y : 445
+Node ID : 2023000424	Position X : 38	Position Y : 445
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650042	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000424	Position X : 38	Position Y : 535
+Node ID : 2023000425	Position X : 38	Position Y : 535
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650045	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000425	Position X : 38	Position Y : 265
+Node ID : 2023000426	Position X : 38	Position Y : 265
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650036	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000426	Position X : 38	Position Y : 355
+Node ID : 2023000427	Position X : 38	Position Y : 355
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650039	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000427	Position X : 38	Position Y : 475
+Node ID : 2023000428	Position X : 38	Position Y : 475
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650043	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000428	Position X : 38	Position Y : 565
+Node ID : 2023000429	Position X : 38	Position Y : 565
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650046	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000429	Position X : 38	Position Y : 415
+Node ID : 2023000430	Position X : 38	Position Y : 415
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650041	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000430	Position X : 38	Position Y : 505
+Node ID : 2023000431	Position X : 38	Position Y : 505
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650044	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000431	Position X : 38	Position Y : 595
+Node ID : 2023000432	Position X : 38	Position Y : 595
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650047	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2023000432	Position X : 38	Position Y : 625
+Node ID : 2023000433	Position X : 38	Position Y : 625
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650048	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2022000714	Position X : 603	Position Y : 210
+Node ID : 2022000715	Position X : 603	Position Y : 210
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 入料Fork 正極限
+Type : Label
 
-Node ID : 2022000715	Position X : 603	Position Y : 240
+Node ID : 2022000716	Position X : 603	Position Y : 240
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 入料Fork 負極限
+Type : Label
 
-Node ID : 2022000716	Position X : 603	Position Y : 270
+Node ID : 2022000717	Position X : 603	Position Y : 270
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 入料Fork 料倉有無檢
+Type : Label
 
-Node ID : 2022000717	Position X : 603	Position Y : 300
+Node ID : 2022000718	Position X : 603	Position Y : 300
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 入料Fork 在席檢
+Type : Label
 
-Node ID : 2022000718	Position X : 603	Position Y : 330
+Node ID : 2022000719	Position X : 603	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 入料Fork 緩衝檢
+Type : Label
 
-Node ID : 2022000719	Position X : 603	Position Y : 600
+Node ID : 2022000720	Position X : 603	Position Y : 600
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機Z 插銷檢
+Type : Label
 
-Node ID : 2022000720	Position X : 603	Position Y : 565
+Node ID : 2022000721	Position X : 603	Position Y : 565
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機Z 定位檢
+Type : Label
 
-Node ID : 2022000721	Position X : 603	Position Y : 447
+Node ID : 2022000722	Position X : 603	Position Y : 447
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 入料Fork 夾爪放
+Type : Label
 
-Node ID : 2022000722	Position X : 113	Position Y : 180
+Node ID : 2022000723	Position X : 113	Position Y : 180
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機θ 原點
+Type : Label
 
-Node ID : 2022000723	Position X : 113	Position Y : 210
+Node ID : 2022000724	Position X : 113	Position Y : 210
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機θ 正極限
+Type : Label
 
-Node ID : 2022000724	Position X : 113	Position Y : 240
+Node ID : 2022000725	Position X : 113	Position Y : 240
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機θ 負極限
+Type : Label
 
-Node ID : 2022000725	Position X : 113	Position Y : 270
+Node ID : 2022000726	Position X : 113	Position Y : 270
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機θ 定位檢1
+Type : Label
 
-Node ID : 2022000726	Position X : 113	Position Y : 300
+Node ID : 2022000727	Position X : 113	Position Y : 300
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機θ 定位檢2
+Type : Label
 
-Node ID : 2022000727	Position X : 113	Position Y : 330
+Node ID : 2022000728	Position X : 113	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機θ 定位檢3
+Type : Label
 
-Node ID : 2022000728	Position X : 113	Position Y : 360
+Node ID : 2022000729	Position X : 113	Position Y : 360
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機θ 定位檢4
+Type : Label
 
-Node ID : 2022000729	Position X : 113	Position Y : 390
+Node ID : 2022000730	Position X : 113	Position Y : 390
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機θ 定位檢5
+Type : Label
 
-Node ID : 2022000730	Position X : 113	Position Y : 420
+Node ID : 2022000731	Position X : 113	Position Y : 420
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機θ 定位檢6
+Type : Label
 
-Node ID : 2022000731	Position X : 113	Position Y : 450
+Node ID : 2022000732	Position X : 113	Position Y : 450
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機θ 定位檢7(入料位置)
+Type : Label
 
-Node ID : 2022000732	Position X : 603	Position Y : 630
+Node ID : 2022000733	Position X : 603	Position Y : 630
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : CDA 氣壓低下
+Type : Label
 
-Node ID : 2022000733	Position X : 603	Position Y : 390
+Node ID : 2022000734	Position X : 603	Position Y : 390
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 入料Fork ALI縮回
+Type : Label
 
-Node ID : 2022000734	Position X : 603	Position Y : 416
+Node ID : 2022000735	Position X : 603	Position Y : 416
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 入料Fork 夾爪夾
+Type : Label
 
 Node ID : 202100042	Position X : 850	Position Y : 89
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 206
-Soft Key : Do not use	Icon : next009.jpg	Text : 
-Password : 0
+Soft Key : Do not use	Icon : next009.jpg	Password : 0
 
-Node ID : 2022000735	Position X : 603	Position Y : 360
+Node ID : 2022000736	Position X : 603	Position Y : 360
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 入料Fork ALI伸出
+Type : Label
 
-Node ID : 2022000736	Position X : 603	Position Y : 476
+Node ID : 2022000737	Position X : 603	Position Y : 476
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機Z 原點
+Type : Label
 
-Node ID : 2022000737	Position X : 603	Position Y : 510
+Node ID : 2022000738	Position X : 603	Position Y : 510
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機Z 正極限
+Type : Label
 
-Node ID : 2022000738	Position X : 603	Position Y : 535
+Node ID : 2022000739	Position X : 603	Position Y : 535
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 主機Z 負極限
+Type : Label
 
 Node ID : 202100043	Position X : 135	Position Y : 675
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1100
 Enable Mode : All	Level : 0	Page Name : 201
-Soft Key : Do not use	Icon : 	Text : Input (1)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 202100046	Position X : 445	Position Y : 676
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 203
-Soft Key : Do not use	Icon : 	Text : Input (3)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 202100047	Position X : 290	Position Y : 676
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 202
-Soft Key : Do not use	Icon : 	Text : Input (2)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 202100048	Position X : 755	Position Y : 676
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 207
-Soft Key : Do not use	Icon : 	Text : Output (2)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 202100049	Position X : 600	Position Y : 676
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 206
-Soft Key : Do not use	Icon : 	Text : Output (1)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 

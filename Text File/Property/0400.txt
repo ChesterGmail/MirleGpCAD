@@ -43,6 +43,16 @@ Node ID : 400200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Label
 
+Node ID : 400200077	Position X : 654	Position Y : 98
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 400300041	Position X : 607	Position Y : 97
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Switch	Address : 289999	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
 Node ID : 400200101	Position X : 73	Position Y : 263
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Log	Address : 200305	Style : Alarm Log
@@ -61,19 +71,19 @@ Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Password : 0
 
-Node ID : 400200077	Position X : 71	Position Y : 243
+Node ID : 400200078	Position X : 71	Position Y : 243
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 400200078	Position X : 122	Position Y : 243
+Node ID : 400200079	Position X : 122	Position Y : 243
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 400200079	Position X : 540	Position Y : 243
+Node ID : 4002000710	Position X : 540	Position Y : 243
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 4002000710	Position X : 747	Position Y : 243
+Node ID : 4002000711	Position X : 747	Position Y : 243
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 

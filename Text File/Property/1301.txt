@@ -43,6 +43,16 @@ Node ID : 1301200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Label
 
+Node ID : 1301200077	Position X : 654	Position Y : 98
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 1301300041	Position X : 607	Position Y : 97
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Switch	Address : 289999	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
 Node ID : 1301200111	Position X : 251	Position Y : 225
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box
@@ -61,11 +71,11 @@ Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Password : 0
 
-Node ID : 1301200077	Position X : 457	Position Y : 317
+Node ID : 1301200078	Position X : 457	Position Y : 317
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 1301200078	Position X : 457	Position Y : 384
+Node ID : 1301200079	Position X : 457	Position Y : 384
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -75,7 +85,7 @@ Type : Status Disp.	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Start Bit : 0
 End Bit : 0	Mask : 0001	State Sum : 2
 
-Node ID : 1301200079	Position X : 269	Position Y : 275
+Node ID : 13012000710	Position X : 269	Position Y : 275
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 

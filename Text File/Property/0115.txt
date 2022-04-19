@@ -5,121 +5,117 @@ Node ID : 115100041	Position X : 956	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : home001.png	Text : 
-Password : 0
+Soft Key : Do not use	Icon : home001.png	Password : 0
 
 Node ID : 115100044	Position X : 850	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Text : 
-Password : 0
+Soft Key : F16	Icon : return005.png	Password : 0
 
 Node ID : 115100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
-Soft Key : Do not use	Icon : menu002.png	Text : 
-Password : 0
+Soft Key : Do not use	Icon : menu002.png	Password : 0
 
 Node ID : 115200071	Position X : 303	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 版本編號
+Type : Label
 
 Node ID : 115200072	Position X : 397	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : v1.0.0.0
+Type : Label
 
 Node ID : 115200073	Position X : 304	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 日期
+Type : Label
 
 Node ID : 115200074	Position X : 397	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 2022/03/23
+Type : Label
 
 Node ID : 115200075	Position X : 304	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 時間
+Type : Label
 
 Node ID : 115200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 13:25:00
+Type : Label
 
-Node ID : 115100043	Position X : 307	Position Y : 241
+Node ID : 115200077	Position X : 654	Position Y : 98
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 115300041	Position X : 607	Position Y : 97
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Switch	Address : 289999	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
+Node ID : 115100042	Position X : 307	Position Y : 241
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 302
-Soft Key : Do not use	Icon : 	Text : 側移軸
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 115100046	Position X : 74	Position Y : 235
+Node ID : 115100043	Position X : 74	Position Y : 235
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 301
-Soft Key : Do not use	Icon : 	Text : 走行軸
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 115100047	Position X : 773	Position Y : 241
+Node ID : 115100046	Position X : 773	Position Y : 241
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 304
-Soft Key : Do not use	Icon : 	Text : 夾爪軸
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 115100048	Position X : 773	Position Y : 390
+Node ID : 115100047	Position X : 773	Position Y : 390
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 400
-Soft Key : Do not use	Icon : 	Text : LOG
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 115100049	Position X : 307	Position Y : 241
+Node ID : 115100048	Position X : 307	Position Y : 241
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 201
-Soft Key : Do not use	Icon : 	Text : I/O
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 1151000410	Position X : 74	Position Y : 241
+Node ID : 115100049	Position X : 74	Position Y : 241
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 100
-Soft Key : Do not use	Icon : 	Text : 主畫面
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 1151000411	Position X : 773	Position Y : 240
+Node ID : 1151000410	Position X : 773	Position Y : 240
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 701
-Soft Key : Do not use	Icon : 	Text : 馬達參數設定
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 1151000412	Position X : 540	Position Y : 390
+Node ID : 1151000411	Position X : 540	Position Y : 390
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 912
-Soft Key : Do not use	Icon : 	Text : WCS測試
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 1151000413	Position X : 307	Position Y : 392
+Node ID : 1151000412	Position X : 307	Position Y : 392
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 701
-Soft Key : Do not use	Icon : 	Text : 半自動流程
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 1151000414	Position X : 74	Position Y : 392
+Node ID : 1151000413	Position X : 74	Position Y : 392
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 600
-Soft Key : Do not use	Icon : 	Text : 讀碼器測試
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 115100042	Position X : 540	Position Y : 241
+Node ID : 1151000414	Position X : 540	Position Y : 241
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 310
-Soft Key : Do not use	Icon : 	Text : 馬達
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 

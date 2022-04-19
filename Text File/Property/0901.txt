@@ -43,6 +43,16 @@ Node ID : 901200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Label
 
+Node ID : 901200077	Position X : 654	Position Y : 98
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label
+
+Node ID : 901300041	Position X : 607	Position Y : 97
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Switch	Address : 289999	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
 Node ID : 901200111	Position X : 27	Position Y : 357
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box
@@ -129,11 +139,11 @@ Cursor Order : 0300	Enable Mode : All	Level : 0
 Integer Digits : 4	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 901200077	Position X : 107	Position Y : 260
+Node ID : 901200078	Position X : 107	Position Y : 260
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 901200078	Position X : 184	Position Y : 260
+Node ID : 901200079	Position X : 184	Position Y : 260
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -146,11 +156,11 @@ Cursor Order : 0700	Enable Mode : All	Level : 0
 Integer Digits : 4	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 901200079	Position X : 261	Position Y : 260
+Node ID : 9012000710	Position X : 261	Position Y : 260
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000710	Position X : 338	Position Y : 260
+Node ID : 9012000711	Position X : 338	Position Y : 260
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -170,7 +180,7 @@ Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 1	Icon : EME001.png
 Password : 0
 
-Node ID : 901300041	Position X : 35	Position Y : 223
+Node ID : 901300042	Position X : 35	Position Y : 223
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 643001	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
@@ -185,7 +195,7 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 4	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 9012000711	Position X : 523	Position Y : 260
+Node ID : 9012000712	Position X : 523	Position Y : 260
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -198,7 +208,7 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 1	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 9012000712	Position X : 639	Position Y : 260
+Node ID : 9012000713	Position X : 639	Position Y : 260
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -244,7 +254,7 @@ Type : Action	Address : 641085	Cursor Order : 0200
 Enable Mode : All	Level : 0	Start Bit : 0
 End Bit : 0	Mask : 0001	State Sum : 2
 
-Node ID : 9012000713	Position X : 447	Position Y : 260
+Node ID : 9012000714	Position X : 447	Position Y : 260
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -284,7 +294,7 @@ Cursor Order : 0700	Enable Mode : All	Level : 0
 Integer Digits : 4	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 901300042	Position X : 35	Position Y : 329
+Node ID : 901300043	Position X : 35	Position Y : 329
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 643002	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
@@ -340,7 +350,7 @@ Cursor Order : 0700	Enable Mode : All	Level : 0
 Integer Digits : 4	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 901300043	Position X : 35	Position Y : 431
+Node ID : 901300044	Position X : 35	Position Y : 431
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 643003	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
@@ -396,7 +406,7 @@ Cursor Order : 0700	Enable Mode : All	Level : 0
 Integer Digits : 4	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 901300044	Position X : 35	Position Y : 531
+Node ID : 901300045	Position X : 35	Position Y : 531
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 643004	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
@@ -496,59 +506,59 @@ Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 4	Value 2 : 0	Icon : 
 Password : 0
 
-Node ID : 9012000714	Position X : 107	Position Y : 158
+Node ID : 9012000715	Position X : 107	Position Y : 158
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000715	Position X : 175	Position Y : 158
+Node ID : 9012000716	Position X : 175	Position Y : 158
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000716	Position X : 261	Position Y : 158
+Node ID : 9012000717	Position X : 261	Position Y : 158
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000717	Position X : 338	Position Y : 158
+Node ID : 9012000718	Position X : 338	Position Y : 158
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000718	Position X : 526	Position Y : 158
+Node ID : 9012000719	Position X : 526	Position Y : 158
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000719	Position X : 639	Position Y : 158
+Node ID : 9012000720	Position X : 639	Position Y : 158
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000720	Position X : 450	Position Y : 158
+Node ID : 9012000721	Position X : 450	Position Y : 158
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000721	Position X : 107	Position Y : 361
+Node ID : 9012000722	Position X : 107	Position Y : 361
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000722	Position X : 184	Position Y : 361
+Node ID : 9012000723	Position X : 184	Position Y : 361
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000723	Position X : 261	Position Y : 361
+Node ID : 9012000724	Position X : 261	Position Y : 361
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000724	Position X : 338	Position Y : 361
+Node ID : 9012000725	Position X : 338	Position Y : 361
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000725	Position X : 523	Position Y : 361
+Node ID : 9012000726	Position X : 523	Position Y : 361
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000726	Position X : 639	Position Y : 361
+Node ID : 9012000727	Position X : 639	Position Y : 361
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000727	Position X : 447	Position Y : 361
+Node ID : 9012000728	Position X : 447	Position Y : 361
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -643,31 +653,31 @@ Type : Action	Address : 641085	Cursor Order : 0200
 Enable Mode : All	Level : 0	Start Bit : 0
 End Bit : 0	Mask : 0001	State Sum : 2
 
-Node ID : 9012000728	Position X : 107	Position Y : 463
+Node ID : 9012000729	Position X : 107	Position Y : 463
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000729	Position X : 184	Position Y : 463
+Node ID : 9012000730	Position X : 184	Position Y : 463
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000730	Position X : 261	Position Y : 463
+Node ID : 9012000731	Position X : 261	Position Y : 463
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000731	Position X : 338	Position Y : 463
+Node ID : 9012000732	Position X : 338	Position Y : 463
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000732	Position X : 523	Position Y : 463
+Node ID : 9012000733	Position X : 523	Position Y : 463
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000733	Position X : 639	Position Y : 463
+Node ID : 9012000734	Position X : 639	Position Y : 463
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000734	Position X : 447	Position Y : 463
+Node ID : 9012000735	Position X : 447	Position Y : 463
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -739,7 +749,7 @@ Cursor Order : 0600	Enable Mode : All	Level : 0
 Integer Digits : 3	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 9012000735	Position X : 805	Position Y : 220
+Node ID : 9012000736	Position X : 805	Position Y : 220
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -792,7 +802,7 @@ Cursor Order : 0700	Enable Mode : All	Level : 0
 Integer Digits : 4	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 901300045	Position X : 35	Position Y : 634
+Node ID : 901300046	Position X : 35	Position Y : 634
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 643005	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
@@ -837,31 +847,31 @@ Type : Action	Address : 641085	Cursor Order : 0200
 Enable Mode : All	Level : 0	Start Bit : 0
 End Bit : 0	Mask : 0001	State Sum : 2
 
-Node ID : 9012000736	Position X : 107	Position Y : 566
+Node ID : 9012000737	Position X : 107	Position Y : 566
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000737	Position X : 184	Position Y : 566
+Node ID : 9012000738	Position X : 184	Position Y : 566
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000738	Position X : 261	Position Y : 566
+Node ID : 9012000739	Position X : 261	Position Y : 566
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000739	Position X : 338	Position Y : 566
+Node ID : 9012000740	Position X : 338	Position Y : 566
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000740	Position X : 523	Position Y : 566
+Node ID : 9012000741	Position X : 523	Position Y : 566
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000741	Position X : 639	Position Y : 566
+Node ID : 9012000742	Position X : 639	Position Y : 566
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 9012000742	Position X : 447	Position Y : 566
+Node ID : 9012000743	Position X : 447	Position Y : 566
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -915,7 +925,7 @@ Cursor Order : 0600	Enable Mode : All	Level : 0
 Integer Digits : 3	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 9012000743	Position X : 498	Position Y : 321
+Node ID : 9012000744	Position X : 498	Position Y : 321
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -928,7 +938,7 @@ Cursor Order : 0600	Enable Mode : All	Level : 0
 Integer Digits : 3	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 9012000744	Position X : 498	Position Y : 420
+Node ID : 9012000745	Position X : 498	Position Y : 420
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -947,37 +957,37 @@ Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 912
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 901300046	Position X : 536	Position Y : 225
+Node ID : 901300047	Position X : 536	Position Y : 225
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 643121	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 901300047	Position X : 506	Position Y : 225
+Node ID : 901300048	Position X : 506	Position Y : 225
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 643136	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 901300048	Position X : 570	Position Y : 225
+Node ID : 901300049	Position X : 570	Position Y : 225
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 643071	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 901300049	Position X : 35	Position Y : 329
+Node ID : 9013000410	Position X : 35	Position Y : 329
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 643002	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 9013000410	Position X : 35	Position Y : 431
+Node ID : 9013000411	Position X : 35	Position Y : 431
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 643003	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 9013000411	Position X : 35	Position Y : 531
+Node ID : 9013000412	Position X : 35	Position Y : 531
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 643004	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
