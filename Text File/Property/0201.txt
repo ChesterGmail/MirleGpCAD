@@ -224,7 +224,7 @@ Type : Switch	Address : 650006	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 2013000424	Position X : 39	Position Y : 445
+Node ID : 2013000424	Position X : 39	Position Y : 444
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Switch	Address : 650010	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
@@ -338,7 +338,7 @@ Type : Label	Text : CONTROL POWER ON
 
 Node ID : 2012000728	Position X : 113	Position Y : 210
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : CONTROL POWER OFF
+Type : Label	Text : -
 
 Node ID : 2012000729	Position X : 113	Position Y : 240
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -346,7 +346,7 @@ Type : Label	Text : MAIN_EMO
 
 Node ID : 2012000730	Position X : 113	Position Y : 270
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : -
+Type : Label	Text : Door Bypass
 
 Node ID : 2012000731	Position X : 113	Position Y : 300
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -428,7 +428,7 @@ Password : 0
 
 Node ID : 2013000434	Position X : 40	Position Y : 108
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Switch	Address : 610001	Cursor Order : 0000
+Type : Switch	Address : 610011	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 1	Input Value 2 : 0	Mask : 0001
 
