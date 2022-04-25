@@ -314,7 +314,7 @@ Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Stop	Password : 0
 
-Node ID : 303300001	Position X : 363	Position Y : 204
+Node ID : 303300001	Position X : 363	Position Y : 203
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657143	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
@@ -323,22 +323,22 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 303300002	Position X : 364	Position Y : 251
+Node ID : 303300002	Position X : 364	Position Y : 250
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657144	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 0	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 303300003	Position X : 364	Position Y : 297
+Node ID : 303300003	Position X : 364	Position Y : 296
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657145	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 0	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 303300004	Position X : 364	Position Y : 346
@@ -347,7 +347,7 @@ Type : Digital	Address : 657146	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 0	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 303300005	Position X : 364	Position Y : 395
@@ -356,7 +356,7 @@ Type : Digital	Address : 657147	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 0	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 303300006	Position X : 89	Position Y : 475
@@ -368,7 +368,7 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 303300007	Position X : 808	Position Y : 346
+Node ID : 303300007	Position X : 808	Position Y : 345
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657149	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
