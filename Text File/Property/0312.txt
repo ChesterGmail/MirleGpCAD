@@ -211,21 +211,21 @@ Type : Label	Text : Dec Speed
 Node ID : 312100001	Position X : 220	Position Y : 460
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657098	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
+Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : High Speed	Password : 0
 
 Node ID : 312100002	Position X : 361	Position Y : 460
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657099	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
+Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Normal Speed	Password : 0
 
 Node ID : 312100003	Position X : 508	Position Y : 460
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657100	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
+Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Low Speed	Password : 0
 
@@ -252,7 +252,7 @@ Type : Label	Text : mm/s2
 Node ID : 312100004	Position X : 690	Position Y : 504
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657096	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
+Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Jog+	Password : 0
 
@@ -267,7 +267,7 @@ Type : Label	Text : Abs Position
 Node ID : 312100005	Position X : 835	Position Y : 504
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657097	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
+Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Jog-	Password : 0
 
@@ -282,35 +282,35 @@ Type : Label	Text : mm
 Node ID : 312100006	Position X : 811	Position Y : 389
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657095	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
+Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Move	Password : 0
 
 Node ID : 312100007	Position X : 690	Position Y : 196
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657091	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
+Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Servo On	Password : 0
 
 Node ID : 312100008	Position X : 841	Position Y : 196
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657092	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
+Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Servo Off	Password : 0
 
 Node ID : 312100009	Position X : 690	Position Y : 262
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657093	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
+Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Home	Password : 0
 
 Node ID : 3121000010	Position X : 840	Position Y : 263
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657094	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
+Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Stop	Password : 0
 

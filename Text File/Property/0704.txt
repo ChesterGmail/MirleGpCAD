@@ -5,47 +5,50 @@ Node ID : 704100041	Position X : 956	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : home001.png	Password : 0
+Soft Key : Do not use	Icon : home001.png	Text : 
+Password : 0
 
 Node ID : 704100044	Position X : 850	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Password : 0
+Soft Key : F16	Icon : return005.png	Text : 
+Password : 0
 
 Node ID : 704100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
-Soft Key : Do not use	Icon : menu002.png	Password : 0
+Soft Key : Do not use	Icon : menu002.png	Text : 
+Password : 0
 
 Node ID : 704200071	Position X : 303	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : セ絪腹
 
 Node ID : 704200072	Position X : 397	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : v1.0.0.0
 
 Node ID : 704200073	Position X : 304	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : ら戳
 
 Node ID : 704200074	Position X : 397	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 2022/03/23
 
 Node ID : 704200075	Position X : 304	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 丁
 
 Node ID : 704200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 13:25:00
 
 Node ID : 704200077	Position X : 654	Position Y : 98
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 祘Α硈絬篈
 
 Node ID : 704300041	Position X : 607	Position Y : 97
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
@@ -55,75 +58,75 @@ Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 Node ID : 704200111	Position X : 26	Position Y : 157
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box
+Type : Group Box	Text : 材10禸皑笷(纗佳6 - T禸)
 
 Node ID : 704200078	Position X : 29	Position Y : 299
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 竚
 
 Node ID : 704200079	Position X : 29	Position Y : 331
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 竚
 
 Node ID : 7042000710	Position X : 29	Position Y : 202
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 锣传
 
 Node ID : 7042000711	Position X : 251	Position Y : 200
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : mm/pulse
 
 Node ID : 7042000712	Position X : 29	Position Y : 363
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 硉
 
 Node ID : 7042000713	Position X : 251	Position Y : 362
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : mm/s
 
 Node ID : 7042000714	Position X : 29	Position Y : 395
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 硉
 
 Node ID : 7042000715	Position X : 251	Position Y : 394
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : mm/s
 
 Node ID : 7042000716	Position X : 29	Position Y : 427
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 搭硉
 
 Node ID : 7042000717	Position X : 251	Position Y : 426
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : mm/s2
 
 Node ID : 7042000718	Position X : 251	Position Y : 298
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : mm
 
 Node ID : 7042000719	Position X : 251	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : mm
 
 Node ID : 7042000720	Position X : 29	Position Y : 267
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : タ/は锣
 
 Node ID : 7042000721	Position X : 251	Position Y : 266
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text :  0:タ  1:は
 
 Node ID : 7042000722	Position X : 29	Position Y : 235
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 把σ
 
 Node ID : 7042000723	Position X : 251	Position Y : 234
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : mm/pulse
 
 Node ID : 704300001	Position X : 133	Position Y : 234
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 643006	Value Type : ULong
+Type : Digital	Address : 643006	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -134,29 +137,33 @@ Node ID : 704100042	Position X : 337	Position Y : 673
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 703
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : 皑笷把计(3)
+Password : 0
 
 Node ID : 704100043	Position X : 190	Position Y : 673
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 702
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : 皑笷把计(2)
+Password : 0
 
 Node ID : 704100046	Position X : 43	Position Y : 673
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 701
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : 皑笷把计(1)
+Password : 0
 
 Node ID : 704100047	Position X : 484	Position Y : 673
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 704
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : 皑笷把计(4)
+Password : 0
 
 Node ID : 704300002	Position X : 132	Position Y : 266
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 635092	Value Type : ULong
+Type : Digital	Address : 635092	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 1	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -165,16 +172,16 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 704300003	Position X : 132	Position Y : 201
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 635091	Value Type : ULong
+Type : Digital	Address : 635091	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 3	Precision : 3	Rev1 : 0
+Integer Digits : 3	Precision : 6	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 704300004	Position X : 132	Position Y : 298
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 635093	Value Type : ULong
+Type : Digital	Address : 635093	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -183,7 +190,7 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 704300005	Position X : 132	Position Y : 362
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 635095	Value Type : ULong
+Type : Digital	Address : 635095	Value Type : Float
 Gain : 1	Base System : Hex	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -192,7 +199,7 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 704300006	Position X : 132	Position Y : 426
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 635097	Value Type : ULong
+Type : Digital	Address : 635097	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -201,7 +208,7 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 704300007	Position X : 132	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 635094	Value Type : ULong
+Type : Digital	Address : 635094	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -210,7 +217,7 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 704300008	Position X : 132	Position Y : 394
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 635096	Value Type : ULong
+Type : Digital	Address : 635096	Value Type : Float
 Gain : 1	Base System : Hex	Data Type : NONE
 Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -222,28 +229,37 @@ Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 635000	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Value : 1	Value 2 : 1	Icon : 
-Password : 0
+Text : 把计 Save	Password : 0
 
 Node ID : 704100002	Position X : 685	Position Y : 678
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 635000	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Value : 2	Value 2 : 2	Icon : 
-Password : 0
+Text : 把计 Load	Password : 0
 
 Node ID : 704200112	Position X : 361	Position Y : 153
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box
+Type : Group Box	Text : ㄤ砞﹚
 
 Node ID : 7042000724	Position X : 393	Position Y : 204
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : heartbeat local address
 
-Node ID : 704300009	Position X : 615	Position Y : 205
+Node ID : 704300009	Position X : 616	Position Y : 205
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 635202	Value Type : ULong
+Type : Digital	Address : 635202	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 649999	Min : 640001	Max E.V. : 0
+Max : 644001	Min : 644002	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 6	Precision : 0	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 7043000010	Position X : 797	Position Y : 206
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 635203	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 635203	Min : 635203	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 6	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0

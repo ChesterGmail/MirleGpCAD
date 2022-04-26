@@ -5,47 +5,50 @@ Node ID : 207100041	Position X : 956	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : home001.png	Password : 0
+Soft Key : Do not use	Icon : home001.png	Text : 
+Password : 0
 
 Node ID : 207100044	Position X : 850	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Password : 0
+Soft Key : F16	Icon : return005.png	Text : 
+Password : 0
 
 Node ID : 207100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
-Soft Key : Do not use	Icon : menu002.png	Password : 0
+Soft Key : Do not use	Icon : menu002.png	Text : 
+Password : 0
 
 Node ID : 207200071	Position X : 303	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 版本編號
 
 Node ID : 207200072	Position X : 397	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : v1.0.0.0
 
 Node ID : 207200073	Position X : 304	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 日期
 
 Node ID : 207200074	Position X : 397	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 2022/03/23
 
 Node ID : 207200075	Position X : 304	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 時間
 
 Node ID : 207200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 13:25:00
 
 Node ID : 207200077	Position X : 654	Position Y : 98
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 程式連線狀態
 
 Node ID : 207300041	Position X : 607	Position Y : 97
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
@@ -57,49 +60,55 @@ Node ID : 207100042	Position X : 850	Position Y : 89
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 201
-Soft Key : Do not use	Icon : next009.jpg	Password : 0
+Soft Key : Do not use	Icon : next009.jpg	Text : 
+Password : 0
 
 Node ID : 207100043	Position X : 135	Position Y : 675
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1100
 Enable Mode : All	Level : 0	Page Name : 201
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : Input (1)
+Password : 0
 
 Node ID : 207100046	Position X : 445	Position Y : 676
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 203
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : Input (3)
+Password : 0
 
 Node ID : 207100047	Position X : 290	Position Y : 676
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 202
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : Input (2)
+Password : 0
 
 Node ID : 207100048	Position X : 755	Position Y : 676
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 207
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : Output (2)
+Password : 0
 
 Node ID : 207100049	Position X : 600	Position Y : 676
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 206
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : Output (1)
+Password : 0
 
 Node ID : 207200111	Position X : 29	Position Y : 152
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box
+Type : Group Box	Text : 
 
 Node ID : 207200078	Position X : 146	Position Y : 480
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : -
 
 Node ID : 207200079	Position X : 146	Position Y : 600
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 維修門檢2解鎖
 
 Node ID : 207300042	Position X : 38	Position Y : 175
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -199,169 +208,169 @@ Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 Node ID : 2072000710	Position X : 146	Position Y : 179
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 入料夾爪夾緊
 
 Node ID : 2072000711	Position X : 146	Position Y : 210
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 入料夾爪放鬆
 
 Node ID : 2072000712	Position X : 146	Position Y : 240
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 出料夾爪夾緊
 
 Node ID : 2072000713	Position X : 146	Position Y : 270
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 出料夾爪放鬆
 
 Node ID : 2072000714	Position X : 146	Position Y : 300
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 入料ALI伸出
 
 Node ID : 2072000715	Position X : 146	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 入料ALI縮回
 
 Node ID : 2072000716	Position X : 146	Position Y : 420
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : -
 
 Node ID : 2072000717	Position X : 146	Position Y : 450
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : -
 
 Node ID : 2072000718	Position X : 146	Position Y : 570
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : -
 
 Node ID : 2072000719	Position X : 146	Position Y : 509
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : -
 
 Node ID : 2072000720	Position X : 146	Position Y : 540
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 維修門檢1解鎖
 
 Node ID : 207100001	Position X : 108	Position Y : 175
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656033	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 207100002	Position X : 108	Position Y : 205
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656034	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 207100003	Position X : 108	Position Y : 235
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656035	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 207100004	Position X : 108	Position Y : 265
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656036	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 207100005	Position X : 108	Position Y : 295
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656037	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 207100006	Position X : 108	Position Y : 325
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656038	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 207100007	Position X : 108	Position Y : 355
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656039	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 207100008	Position X : 108	Position Y : 384
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656040	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 207100009	Position X : 108	Position Y : 415
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656041	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 2071000010	Position X : 108	Position Y : 445
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656042	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 2071000011	Position X : 108	Position Y : 475
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656043	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 2071000012	Position X : 108	Position Y : 505
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656044	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 2071000013	Position X : 108	Position Y : 534
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656045	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 2071000014	Position X : 108	Position Y : 565
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656046	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 2071000015	Position X : 108	Position Y : 595
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656047	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 2071000016	Position X : 108	Position Y : 625
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 656048	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 1	Icon : Auto.png
-Password : 0
+Value : 1	Value 2 : 0	Icon : Auto.png
+Text : 	Password : 0
 
 Node ID : 2072000721	Position X : 146	Position Y : 356
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 出料ALI伸出
 
 Node ID : 2072000722	Position X : 146	Position Y : 383
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 出料ALI縮回
 
 Node ID : 2072000723	Position X : 146	Position Y : 625
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : -
 
