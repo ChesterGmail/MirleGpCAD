@@ -3950,7 +3950,7 @@ Node ID : 303200112	Position X : 183	Position Y : 153
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : Status
 
-Node ID : 303200113	Position X : 26	Position Y : 159
+Node ID : 303200113	Position X : 26	Position Y : 155
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : IO Status
 
@@ -3989,21 +3989,21 @@ Enable Mode : All	Level : 0	Page Name : 306
 Soft Key : Do not use	Icon : 	Text : 料塔4 - T軸
 Password : 0
 
-Node ID : 303100049	Position X : 52	Position Y : 593
+Node ID : 303100049	Position X : 52	Position Y : 595
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1100
 Enable Mode : All	Level : 0	Page Name : 310
 Soft Key : Do not use	Icon : 	Text : 手臂 - Z軸
 Password : 0
 
-Node ID : 3031000410	Position X : 362	Position Y : 592
+Node ID : 3031000410	Position X : 207	Position Y : 595
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 311
 Soft Key : Do not use	Icon : 	Text : 手臂入料 - Y軸
 Password : 0
 
-Node ID : 3031000411	Position X : 207	Position Y : 592
+Node ID : 3031000411	Position X : 517	Position Y : 595
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 309
@@ -4017,7 +4017,7 @@ Enable Mode : All	Level : 0	Page Name : 308
 Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
 Password : 0
 
-Node ID : 3031000413	Position X : 517	Position Y : 592
+Node ID : 3031000413	Position X : 359	Position Y : 595
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 312
@@ -4245,7 +4245,7 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 303300006	Position X : 89	Position Y : 475
+Node ID : 303300006	Position X : 84	Position Y : 529
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657140	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
@@ -4299,9 +4299,19 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 3032000727	Position X : 71	Position Y : 448
+Node ID : 3032000727	Position X : 66	Position Y : 502
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : Error code
+
+Node ID : 3032000728	Position X : 81	Position Y : 448
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : Busy
+
+Node ID : 303300047	Position X : 34	Position Y : 445
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 657051	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 --------------------------------------------------------------------
 
@@ -4410,21 +4420,21 @@ Enable Mode : All	Level : 0	Page Name : 306
 Soft Key : Do not use	Icon : 	Text : 料塔4 - T軸
 Password : 0
 
-Node ID : 304100049	Position X : 52	Position Y : 593
+Node ID : 304100049	Position X : 52	Position Y : 592
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1100
 Enable Mode : All	Level : 0	Page Name : 310
 Soft Key : Do not use	Icon : 	Text : 手臂 - Z軸
 Password : 0
 
-Node ID : 3041000410	Position X : 362	Position Y : 592
+Node ID : 3041000410	Position X : 207	Position Y : 592
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 311
 Soft Key : Do not use	Icon : 	Text : 手臂入料 - Y軸
 Password : 0
 
-Node ID : 3041000411	Position X : 207	Position Y : 592
+Node ID : 3041000411	Position X : 513	Position Y : 592
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 309
@@ -4438,7 +4448,7 @@ Enable Mode : All	Level : 0	Page Name : 308
 Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
 Password : 0
 
-Node ID : 3041000413	Position X : 517	Position Y : 592
+Node ID : 3041000413	Position X : 362	Position Y : 592
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 312
@@ -4666,7 +4676,7 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 304300006	Position X : 77	Position Y : 444
+Node ID : 304300006	Position X : 78	Position Y : 505
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657170	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
@@ -4692,6 +4702,16 @@ Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
+
+Node ID : 3042000727	Position X : 82	Position Y : 455
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : Busy
+
+Node ID : 304300047	Position X : 35	Position Y : 453
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 657171	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 --------------------------------------------------------------------
 
@@ -4761,7 +4781,7 @@ Node ID : 305200112	Position X : 177	Position Y : 159
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : Status
 
-Node ID : 305200113	Position X : 24	Position Y : 159
+Node ID : 305200113	Position X : 24	Position Y : 158
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : IO Status
 
@@ -4800,21 +4820,21 @@ Enable Mode : All	Level : 0	Page Name : 306
 Soft Key : Do not use	Icon : 	Text : 料塔4 - T軸
 Password : 0
 
-Node ID : 305100049	Position X : 52	Position Y : 593
+Node ID : 305100049	Position X : 55	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1100
 Enable Mode : All	Level : 0	Page Name : 310
 Soft Key : Do not use	Icon : 	Text : 手臂 - Z軸
 Password : 0
 
-Node ID : 3051000410	Position X : 362	Position Y : 592
+Node ID : 3051000410	Position X : 209	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 311
 Soft Key : Do not use	Icon : 	Text : 手臂入料 - Y軸
 Password : 0
 
-Node ID : 3051000411	Position X : 207	Position Y : 592
+Node ID : 3051000411	Position X : 519	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 309
@@ -4828,7 +4848,7 @@ Enable Mode : All	Level : 0	Page Name : 308
 Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
 Password : 0
 
-Node ID : 3051000413	Position X : 517	Position Y : 592
+Node ID : 3051000413	Position X : 365	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 312
@@ -5074,7 +5094,7 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 305300008	Position X : 79	Position Y : 444
+Node ID : 305300008	Position X : 83	Position Y : 517
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657200	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
@@ -5082,6 +5102,16 @@ Max : 0	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
+
+Node ID : 3052000727	Position X : 84	Position Y : 450
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : Busy
+
+Node ID : 305300047	Position X : 37	Position Y : 448
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 657201	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 --------------------------------------------------------------------
 
@@ -5147,7 +5177,7 @@ Node ID : 306200111	Position X : 658	Position Y : 156
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : Move
 
-Node ID : 306200112	Position X : 182	Position Y : 157
+Node ID : 306200112	Position X : 182	Position Y : 156
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : Status
 
@@ -5197,14 +5227,14 @@ Enable Mode : All	Level : 0	Page Name : 310
 Soft Key : Do not use	Icon : 	Text : 手臂 - Z軸
 Password : 0
 
-Node ID : 3061000410	Position X : 362	Position Y : 592
+Node ID : 3061000410	Position X : 207	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 311
 Soft Key : Do not use	Icon : 	Text : 手臂入料 - Y軸
 Password : 0
 
-Node ID : 3061000411	Position X : 207	Position Y : 592
+Node ID : 3061000411	Position X : 517	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 309
@@ -5218,7 +5248,7 @@ Enable Mode : All	Level : 0	Page Name : 308
 Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
 Password : 0
 
-Node ID : 3061000413	Position X : 517	Position Y : 592
+Node ID : 3061000413	Position X : 362	Position Y : 592
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 312
@@ -5401,7 +5431,7 @@ Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Stop	Password : 0
 
-Node ID : 306300001	Position X : 80	Position Y : 445
+Node ID : 306300001	Position X : 79	Position Y : 514
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657230	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
@@ -5472,6 +5502,16 @@ Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
+
+Node ID : 3062000727	Position X : 81	Position Y : 452
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : Busy
+
+Node ID : 306300047	Position X : 34	Position Y : 450
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 657231	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 --------------------------------------------------------------------
 
@@ -5587,14 +5627,14 @@ Enable Mode : All	Level : 0	Page Name : 310
 Soft Key : Do not use	Icon : 	Text : 手臂 - Z軸
 Password : 0
 
-Node ID : 3071000410	Position X : 362	Position Y : 592
+Node ID : 3071000410	Position X : 209	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 311
 Soft Key : Do not use	Icon : 	Text : 手臂入料 - Y軸
 Password : 0
 
-Node ID : 3071000411	Position X : 207	Position Y : 592
+Node ID : 3071000411	Position X : 525	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 309
@@ -5608,7 +5648,7 @@ Enable Mode : All	Level : 0	Page Name : 308
 Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
 Password : 0
 
-Node ID : 3071000413	Position X : 517	Position Y : 592
+Node ID : 3071000413	Position X : 365	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 312
@@ -5854,7 +5894,7 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 307300008	Position X : 78	Position Y : 445
+Node ID : 307300008	Position X : 78	Position Y : 504
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657260	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
@@ -5862,6 +5902,16 @@ Max : 0	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
+
+Node ID : 3072000727	Position X : 83	Position Y : 452
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : Busy
+
+Node ID : 307300047	Position X : 36	Position Y : 450
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 657261	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 --------------------------------------------------------------------
 
@@ -5977,14 +6027,14 @@ Enable Mode : All	Level : 0	Page Name : 310
 Soft Key : Do not use	Icon : 	Text : 手臂 - Z軸
 Password : 0
 
-Node ID : 3081000410	Position X : 362	Position Y : 592
+Node ID : 3081000410	Position X : 210	Position Y : 595
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 311
 Soft Key : Do not use	Icon : 	Text : 手臂入料 - Y軸
 Password : 0
 
-Node ID : 3081000411	Position X : 207	Position Y : 592
+Node ID : 3081000411	Position X : 521	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 309
@@ -5998,7 +6048,7 @@ Enable Mode : All	Level : 0	Page Name : 308
 Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
 Password : 0
 
-Node ID : 3081000413	Position X : 517	Position Y : 592
+Node ID : 3081000413	Position X : 366	Position Y : 594
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 312
@@ -6181,7 +6231,7 @@ Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Stop	Password : 0
 
-Node ID : 308300001	Position X : 77	Position Y : 445
+Node ID : 308300001	Position X : 80	Position Y : 510
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657290	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
@@ -6253,6 +6303,16 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
+Node ID : 3082000727	Position X : 84	Position Y : 453
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : Busy
+
+Node ID : 308300047	Position X : 37	Position Y : 451
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 657291	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
 --------------------------------------------------------------------
 
 Page Name : 0309.gpg
@@ -6321,7 +6381,7 @@ Node ID : 309200112	Position X : 183	Position Y : 157
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : Status
 
-Node ID : 309200113	Position X : 24	Position Y : 159
+Node ID : 309200113	Position X : 23	Position Y : 159
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : IO Status
 
@@ -6367,14 +6427,14 @@ Enable Mode : All	Level : 0	Page Name : 310
 Soft Key : Do not use	Icon : 	Text : 手臂 - Z軸
 Password : 0
 
-Node ID : 3091000410	Position X : 362	Position Y : 592
+Node ID : 3091000410	Position X : 211	Position Y : 594
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 311
 Soft Key : Do not use	Icon : 	Text : 手臂入料 - Y軸
 Password : 0
 
-Node ID : 3091000411	Position X : 207	Position Y : 592
+Node ID : 3091000411	Position X : 518	Position Y : 595
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 309
@@ -6388,7 +6448,7 @@ Enable Mode : All	Level : 0	Page Name : 308
 Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
 Password : 0
 
-Node ID : 3091000413	Position X : 517	Position Y : 592
+Node ID : 3091000413	Position X : 360	Position Y : 595
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 312
@@ -6571,7 +6631,7 @@ Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Stop	Password : 0
 
-Node ID : 309300001	Position X : 81	Position Y : 446
+Node ID : 309300001	Position X : 73	Position Y : 519
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657050	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
@@ -6642,6 +6702,16 @@ Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
+
+Node ID : 3092000727	Position X : 81	Position Y : 451
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : Busy
+
+Node ID : 309300047	Position X : 34	Position Y : 449
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 657051	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 --------------------------------------------------------------------
 
@@ -6757,14 +6827,14 @@ Enable Mode : All	Level : 0	Page Name : 310
 Soft Key : Do not use	Icon : 	Text : 手臂 - Z軸
 Password : 0
 
-Node ID : 3101000410	Position X : 362	Position Y : 592
+Node ID : 3101000410	Position X : 207	Position Y : 594
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 311
 Soft Key : Do not use	Icon : 	Text : 手臂入料 - Y軸
 Password : 0
 
-Node ID : 3101000411	Position X : 207	Position Y : 592
+Node ID : 3101000411	Position X : 516	Position Y : 592
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 309
@@ -6778,7 +6848,7 @@ Enable Mode : All	Level : 0	Page Name : 308
 Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
 Password : 0
 
-Node ID : 3101000413	Position X : 517	Position Y : 592
+Node ID : 3101000413	Position X : 362	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 312
@@ -6961,7 +7031,7 @@ Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Stop	Password : 0
 
-Node ID : 310300001	Position X : 83	Position Y : 447
+Node ID : 310300001	Position X : 76	Position Y : 492
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657020	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
@@ -7032,6 +7102,16 @@ Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
+
+Node ID : 3102000727	Position X : 83	Position Y : 450
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : Busy
+
+Node ID : 310300047	Position X : 36	Position Y : 447
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 657021	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 --------------------------------------------------------------------
 
@@ -7147,14 +7227,14 @@ Enable Mode : All	Level : 0	Page Name : 310
 Soft Key : Do not use	Icon : 	Text : 手臂 - Z軸
 Password : 0
 
-Node ID : 3111000410	Position X : 362	Position Y : 592
+Node ID : 3111000410	Position X : 208	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 311
 Soft Key : Do not use	Icon : 	Text : 手臂入料 - Y軸
 Password : 0
 
-Node ID : 3111000411	Position X : 207	Position Y : 592
+Node ID : 3111000411	Position X : 517	Position Y : 596
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 309
@@ -7168,7 +7248,7 @@ Enable Mode : All	Level : 0	Page Name : 308
 Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
 Password : 0
 
-Node ID : 3111000413	Position X : 517	Position Y : 592
+Node ID : 3111000413	Position X : 364	Position Y : 595
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 312
@@ -7351,7 +7431,7 @@ Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Stop	Password : 0
 
-Node ID : 311300001	Position X : 83	Position Y : 444
+Node ID : 311300001	Position X : 81	Position Y : 506
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657080	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
@@ -7422,6 +7502,16 @@ Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
+
+Node ID : 3112000727	Position X : 81	Position Y : 448
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : Busy
+
+Node ID : 311300047	Position X : 34	Position Y : 445
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 657081	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 --------------------------------------------------------------------
 
@@ -7537,14 +7627,14 @@ Enable Mode : All	Level : 0	Page Name : 310
 Soft Key : Do not use	Icon : 	Text : 手臂 - Z軸
 Password : 0
 
-Node ID : 3121000410	Position X : 362	Position Y : 592
+Node ID : 3121000410	Position X : 211	Position Y : 594
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 311
 Soft Key : Do not use	Icon : 	Text : 手臂入料 - Y軸
 Password : 0
 
-Node ID : 3121000411	Position X : 207	Position Y : 592
+Node ID : 3121000411	Position X : 516	Position Y : 594
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 309
@@ -7558,7 +7648,7 @@ Enable Mode : All	Level : 0	Page Name : 308
 Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
 Password : 0
 
-Node ID : 3121000413	Position X : 517	Position Y : 592
+Node ID : 3121000413	Position X : 360	Position Y : 594
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 312
@@ -7741,7 +7831,7 @@ Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : Stop	Password : 0
 
-Node ID : 312300001	Position X : 83	Position Y : 447
+Node ID : 312300001	Position X : 85	Position Y : 497
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657110	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
@@ -7812,6 +7902,16 @@ Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
+
+Node ID : 3122000727	Position X : 81	Position Y : 449
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : Busy
+
+Node ID : 312300047	Position X : 34	Position Y : 447
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 657111	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 --------------------------------------------------------------------
 
@@ -8809,47 +8909,50 @@ Node ID : 504100041	Position X : 956	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : home001.png	Password : 0
+Soft Key : Do not use	Icon : home001.png	Text : 
+Password : 0
 
 Node ID : 504100044	Position X : 850	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Password : 0
+Soft Key : F16	Icon : return005.png	Text : 
+Password : 0
 
 Node ID : 504100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
-Soft Key : Do not use	Icon : menu002.png	Password : 0
+Soft Key : Do not use	Icon : menu002.png	Text : 
+Password : 0
 
 Node ID : 504200071	Position X : 303	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 版本編號
 
 Node ID : 504200072	Position X : 397	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : v1.0.0.0
 
 Node ID : 504200073	Position X : 304	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 日期
 
 Node ID : 504200074	Position X : 397	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 2022/03/23
 
 Node ID : 504200075	Position X : 304	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 時間
 
 Node ID : 504200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 13:25:00
 
 Node ID : 504200077	Position X : 654	Position Y : 98
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 程式連線狀態
 
 Node ID : 504300041	Position X : 607	Position Y : 97
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
@@ -8866,47 +8969,50 @@ Node ID : 600100041	Position X : 956	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : home001.png	Password : 0
+Soft Key : Do not use	Icon : home001.png	Text : 
+Password : 0
 
 Node ID : 600100044	Position X : 850	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Password : 0
+Soft Key : F16	Icon : return005.png	Text : 
+Password : 0
 
 Node ID : 600100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
-Soft Key : Do not use	Icon : menu002.png	Password : 0
+Soft Key : Do not use	Icon : menu002.png	Text : 
+Password : 0
 
 Node ID : 600200071	Position X : 303	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 版本編號
 
 Node ID : 600200072	Position X : 397	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : v1.0.0.0
 
 Node ID : 600200073	Position X : 304	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 日期
 
 Node ID : 600200074	Position X : 397	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 2022/03/23
 
 Node ID : 600200075	Position X : 304	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 時間
 
 Node ID : 600200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 13:25:00
 
 Node ID : 600200077	Position X : 654	Position Y : 98
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 程式連線狀態
 
 Node ID : 600300041	Position X : 607	Position Y : 97
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
@@ -8916,19 +9022,19 @@ Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 Node ID : 600200078	Position X : 50	Position Y : 199
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 讀取結果
 
-Node ID : 600300011	Position X : 49	Position Y : 238
+Node ID : 600300011	Position X : 48	Position Y : 237
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Text	Address : 0	Cursor Order : 0000
+Type : Text	Address : 657306	Cursor Order : 0000
 Enable Mode : All	Level : 0
 
 Node ID : 600100001	Position X : 447	Position Y : 224
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
-Password : 0
+Type : Push Button	Address : 657305	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
+Text : 讀取	Password : 0
 
 --------------------------------------------------------------------
 
@@ -8995,13 +9101,13 @@ Type : Switch	Address : 289999	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 701200111	Position X : 351	Position Y : 157
+Node ID : 701200111	Position X : 352	Position Y : 154
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 第2軸馬達(手臂 - T軸)
+Type : Group Box	Text : 第2軸馬達(供料手臂 - Y軸)
 
-Node ID : 701200112	Position X : 676	Position Y : 157
+Node ID : 701200112	Position X : 675	Position Y : 156
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 第3軸馬達(供料手臂 - Y軸)
+Type : Group Box	Text : 第3軸馬達(出料手臂 - Y軸)
 
 Node ID : 701200113	Position X : 26	Position Y : 157
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -9130,7 +9236,7 @@ Node ID : 701300008	Position X : 783	Position Y : 298
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 635023	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 2300	Min : -99999999	Max E.V. : 0
+Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
 Integer Digits : 8	Precision : 1	Rev1 : 0
 Rev2 : 0	Rev3 : 0
@@ -9139,7 +9245,7 @@ Node ID : 701300009	Position X : 783	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 635024	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 99999999	Min : 0	Max E.V. : 0
+Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
 Integer Digits : 8	Precision : 1	Rev1 : 0
 Rev2 : 0	Rev3 : 0
@@ -9527,7 +9633,7 @@ Type : Group Box	Text : 第6軸馬達(儲料槽2 - T軸)
 
 Node ID : 702200113	Position X : 26	Position Y : 157
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 第4軸馬達(出料手臂 - Y軸)
+Type : Group Box	Text : 第4軸馬達(手臂 - T軸)
 
 Node ID : 702200078	Position X : 29	Position Y : 299
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -10311,7 +10417,7 @@ Type : Digital	Address : 635061	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 3	Precision : 6	Rev1 : 0
+Integer Digits : 3	Precision : 7	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 7033000020	Position X : 132	Position Y : 298
@@ -11020,50 +11126,47 @@ Node ID : 707100041	Position X : 956	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : home001.png	Text : 
-Password : 0
+Soft Key : Do not use	Icon : home001.png	Password : 0
 
 Node ID : 707100044	Position X : 850	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Text : 
-Password : 0
+Soft Key : F16	Icon : return005.png	Password : 0
 
 Node ID : 707100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
-Soft Key : Do not use	Icon : menu002.png	Text : 
-Password : 0
+Soft Key : Do not use	Icon : menu002.png	Password : 0
 
 Node ID : 707200071	Position X : 303	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 版本編號
+Type : Label
 
 Node ID : 707200072	Position X : 397	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : v1.0.0.0
+Type : Label
 
 Node ID : 707200073	Position X : 304	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 日期
+Type : Label
 
 Node ID : 707200074	Position X : 397	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 2022/03/23
+Type : Label
 
 Node ID : 707200075	Position X : 304	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 時間
+Type : Label
 
 Node ID : 707200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 13:25:00
+Type : Label
 
 Node ID : 707200077	Position X : 654	Position Y : 98
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 程式連線狀態
+Type : Label
 
 Node ID : 707300041	Position X : 607	Position Y : 97
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
@@ -11075,67 +11178,61 @@ Node ID : 707100042	Position X : 372	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 0
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(3)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 707100043	Position X : 666	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 0
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(5)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 707100046	Position X : 813	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 0
-Soft Key : Do not use	Icon : 	Text : 
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 707100047	Position X : 225	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 0
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(2)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 707100048	Position X : 78	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 707
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(1)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 707100049	Position X : 519	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 0
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(4)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 707200111	Position X : 107	Position Y : 170
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 走行
+Type : Group Box
 
 Node ID : 707200112	Position X : 521	Position Y : 403
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 旋轉
+Type : Group Box
 
 Node ID : 707200113	Position X : 107	Position Y : 403
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 捲揚
+Type : Group Box
 
 Node ID : 707200114	Position X : 521	Position Y : 169
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 側移
+Type : Group Box
 
 Node ID : 707200078	Position X : 125	Position Y : 284
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 減速機齒比
+Type : Label
 
 Node ID : 707300001	Position X : 249	Position Y : 284
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638020	Value Type : Float
+Type : Digital	Address : 638020	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11144,11 +11241,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 707200079	Position X : 125	Position Y : 317
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 機構齒輪比
+Type : Label
 
 Node ID : 707300002	Position X : 249	Position Y : 317
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638021	Value Type : Float
+Type : Digital	Address : 638021	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11157,11 +11254,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000710	Position X : 125	Position Y : 218
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 輪外徑
+Type : Label
 
 Node ID : 707300003	Position X : 249	Position Y : 218
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638018	Value Type : Float
+Type : Digital	Address : 638018	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 65536	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11170,19 +11267,19 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000711	Position X : 395	Position Y : 218
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7072000712	Position X : 395	Position Y : 251
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : pulse
+Type : Label
 
 Node ID : 7072000713	Position X : 125	Position Y : 251
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 編碼器
+Type : Label
 
 Node ID : 707300004	Position X : 249	Position Y : 251
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638019	Value Type : Float
+Type : Digital	Address : 638019	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 200000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11191,11 +11288,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000714	Position X : 125	Position Y : 350
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 電子齒輪比
+Type : Label
 
 Node ID : 707300005	Position X : 249	Position Y : 350
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 643008	Value Type : Float
+Type : Digital	Address : 643008	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11204,15 +11301,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000715	Position X : 395	Position Y : 350
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/pulse
+Type : Label
 
 Node ID : 7072000716	Position X : 125	Position Y : 517
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 減速機齒比
+Type : Label
 
 Node ID : 707300006	Position X : 249	Position Y : 517
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638077	Value Type : Float
+Type : Digital	Address : 638077	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11221,11 +11318,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000717	Position X : 125	Position Y : 550
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 機構齒輪比
+Type : Label
 
 Node ID : 707300007	Position X : 249	Position Y : 550
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638078	Value Type : Float
+Type : Digital	Address : 638078	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11234,11 +11331,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000718	Position X : 125	Position Y : 451
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 輪外徑
+Type : Label
 
 Node ID : 707300008	Position X : 249	Position Y : 451
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638075	Value Type : Float
+Type : Digital	Address : 638075	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 65536	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11247,19 +11344,19 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000719	Position X : 395	Position Y : 451
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7072000720	Position X : 395	Position Y : 484
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : pulse
+Type : Label
 
 Node ID : 7072000721	Position X : 125	Position Y : 484
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 編碼器
+Type : Label
 
 Node ID : 707300009	Position X : 249	Position Y : 484
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638076	Value Type : Float
+Type : Digital	Address : 638076	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 200000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11268,11 +11365,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000722	Position X : 125	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 電子齒輪比
+Type : Label
 
 Node ID : 7073000010	Position X : 249	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 643108	Value Type : Float
+Type : Digital	Address : 643108	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11281,15 +11378,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000723	Position X : 395	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/pulse
+Type : Label
 
 Node ID : 7072000724	Position X : 544	Position Y : 284
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 減速機齒比
+Type : Label
 
 Node ID : 7073000011	Position X : 663	Position Y : 284
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638050	Value Type : Float
+Type : Digital	Address : 638050	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11298,11 +11395,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000725	Position X : 544	Position Y : 317
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 機構齒輪比
+Type : Label
 
 Node ID : 7073000012	Position X : 663	Position Y : 317
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638051	Value Type : Float
+Type : Digital	Address : 638051	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11311,11 +11408,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000726	Position X : 544	Position Y : 218
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 輪外徑
+Type : Label
 
 Node ID : 7073000013	Position X : 663	Position Y : 218
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638048	Value Type : Float
+Type : Digital	Address : 638048	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 65536	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11324,19 +11421,19 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000727	Position X : 806	Position Y : 218
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7072000728	Position X : 806	Position Y : 251
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : pulse
+Type : Label
 
 Node ID : 7072000729	Position X : 544	Position Y : 251
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 編碼器
+Type : Label
 
 Node ID : 7073000014	Position X : 663	Position Y : 251
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638049	Value Type : Float
+Type : Digital	Address : 638049	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 200000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11345,11 +11442,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000730	Position X : 545	Position Y : 350
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 電子齒輪比
+Type : Label
 
 Node ID : 7073000015	Position X : 663	Position Y : 350
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 643058	Value Type : Float
+Type : Digital	Address : 643058	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11358,15 +11455,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000731	Position X : 806	Position Y : 350
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/pulse
+Type : Label
 
 Node ID : 7072000732	Position X : 545	Position Y : 517
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 減速機齒比
+Type : Label
 
 Node ID : 7073000016	Position X : 663	Position Y : 517
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638111	Value Type : Float
+Type : Digital	Address : 638111	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11375,11 +11472,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000733	Position X : 545	Position Y : 550
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 機構齒輪比
+Type : Label
 
 Node ID : 7073000017	Position X : 663	Position Y : 550
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638112	Value Type : Float
+Type : Digital	Address : 638112	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11388,11 +11485,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000734	Position X : 545	Position Y : 451
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 輪外徑
+Type : Label
 
 Node ID : 7073000018	Position X : 663	Position Y : 451
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638109	Value Type : Float
+Type : Digital	Address : 638109	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 65536	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11401,19 +11498,19 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000735	Position X : 806	Position Y : 451
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7072000736	Position X : 806	Position Y : 484
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : pulse
+Type : Label
 
 Node ID : 7072000737	Position X : 545	Position Y : 484
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 編碼器
+Type : Label
 
 Node ID : 7073000019	Position X : 663	Position Y : 484
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638110	Value Type : Float
+Type : Digital	Address : 638110	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 200000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11422,11 +11519,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000738	Position X : 546	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 電子齒輪比
+Type : Label
 
 Node ID : 7073000020	Position X : 663	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 643158	Value Type : Float
+Type : Digital	Address : 643158	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11435,11 +11532,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7072000739	Position X : 806	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/pulse
+Type : Label
 
 Node ID : 7072000740	Position X : 287	Position Y : 22
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 齒輪比設定(1)
+Type : Label
 
 --------------------------------------------------------------------
 
@@ -11450,50 +11547,47 @@ Node ID : 708100041	Position X : 956	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : home001.png	Text : 
-Password : 0
+Soft Key : Do not use	Icon : home001.png	Password : 0
 
 Node ID : 708100044	Position X : 850	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Text : 
-Password : 0
+Soft Key : F16	Icon : return005.png	Password : 0
 
 Node ID : 708100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
-Soft Key : Do not use	Icon : menu002.png	Text : 
-Password : 0
+Soft Key : Do not use	Icon : menu002.png	Password : 0
 
 Node ID : 708200071	Position X : 303	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 版本編號
+Type : Label
 
 Node ID : 708200072	Position X : 397	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : v1.0.0.0
+Type : Label
 
 Node ID : 708200073	Position X : 304	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 日期
+Type : Label
 
 Node ID : 708200074	Position X : 397	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 2022/03/23
+Type : Label
 
 Node ID : 708200075	Position X : 304	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 時間
+Type : Label
 
 Node ID : 708200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 13:25:00
+Type : Label
 
 Node ID : 708200077	Position X : 654	Position Y : 98
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 程式連線狀態
+Type : Label
 
 Node ID : 708300041	Position X : 607	Position Y : 97
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
@@ -11505,67 +11599,61 @@ Node ID : 708100042	Position X : 372	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 703
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(3)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 708100043	Position X : 666	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 705
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(5)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 708100046	Position X : 813	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 0
-Soft Key : Do not use	Icon : 	Text : 
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 708100047	Position X : 225	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 702
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(2)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 708100048	Position X : 78	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 701
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(1)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 708100049	Position X : 519	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 704
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(4)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 708200111	Position X : 107	Position Y : 170
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 軸5
+Type : Group Box
 
 Node ID : 708200112	Position X : 521	Position Y : 403
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 軸8
+Type : Group Box
 
 Node ID : 708200113	Position X : 107	Position Y : 403
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 軸7
+Type : Group Box
 
 Node ID : 708200114	Position X : 521	Position Y : 169
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 軸6
+Type : Group Box
 
 Node ID : 708200078	Position X : 125	Position Y : 284
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 減速機齒比
+Type : Label
 
 Node ID : 708300001	Position X : 249	Position Y : 284
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638020	Value Type : Float
+Type : Digital	Address : 638020	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11574,11 +11662,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 708200079	Position X : 125	Position Y : 317
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 機構齒輪比
+Type : Label
 
 Node ID : 708300002	Position X : 249	Position Y : 317
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638021	Value Type : Float
+Type : Digital	Address : 638021	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11587,11 +11675,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000710	Position X : 125	Position Y : 218
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 輪外徑
+Type : Label
 
 Node ID : 708300003	Position X : 249	Position Y : 218
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638018	Value Type : Float
+Type : Digital	Address : 638018	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 65536	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11600,19 +11688,19 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000711	Position X : 395	Position Y : 218
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7082000712	Position X : 395	Position Y : 251
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : pulse
+Type : Label
 
 Node ID : 7082000713	Position X : 125	Position Y : 251
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 編碼器
+Type : Label
 
 Node ID : 708300004	Position X : 249	Position Y : 251
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638019	Value Type : Float
+Type : Digital	Address : 638019	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 200000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11621,11 +11709,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000714	Position X : 125	Position Y : 350
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 電子齒輪比
+Type : Label
 
 Node ID : 708300005	Position X : 249	Position Y : 350
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 640290	Value Type : Float
+Type : Digital	Address : 640290	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11634,15 +11722,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000715	Position X : 395	Position Y : 350
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/pulse
+Type : Label
 
 Node ID : 7082000716	Position X : 125	Position Y : 517
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 減速機齒比
+Type : Label
 
 Node ID : 708300006	Position X : 249	Position Y : 517
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638077	Value Type : Float
+Type : Digital	Address : 638077	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11651,11 +11739,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000717	Position X : 125	Position Y : 550
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 機構齒輪比
+Type : Label
 
 Node ID : 708300007	Position X : 249	Position Y : 550
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638078	Value Type : Float
+Type : Digital	Address : 638078	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11664,11 +11752,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000718	Position X : 125	Position Y : 451
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 輪外徑
+Type : Label
 
 Node ID : 708300008	Position X : 249	Position Y : 451
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638075	Value Type : Float
+Type : Digital	Address : 638075	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 65536	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11677,19 +11765,19 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000719	Position X : 395	Position Y : 451
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7082000720	Position X : 395	Position Y : 484
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : pulse
+Type : Label
 
 Node ID : 7082000721	Position X : 125	Position Y : 484
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 編碼器
+Type : Label
 
 Node ID : 708300009	Position X : 249	Position Y : 484
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638076	Value Type : Float
+Type : Digital	Address : 638076	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 200000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11698,11 +11786,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000722	Position X : 125	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 電子齒輪比
+Type : Label
 
 Node ID : 7083000010	Position X : 249	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 640292	Value Type : Float
+Type : Digital	Address : 640292	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11711,15 +11799,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000723	Position X : 395	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/pulse
+Type : Label
 
 Node ID : 7082000724	Position X : 544	Position Y : 284
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 減速機齒比
+Type : Label
 
 Node ID : 7083000011	Position X : 663	Position Y : 284
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638050	Value Type : Float
+Type : Digital	Address : 638050	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11728,11 +11816,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000725	Position X : 544	Position Y : 317
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 機構齒輪比
+Type : Label
 
 Node ID : 7083000012	Position X : 663	Position Y : 317
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638051	Value Type : Float
+Type : Digital	Address : 638051	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11741,11 +11829,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000726	Position X : 544	Position Y : 218
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 輪外徑
+Type : Label
 
 Node ID : 7083000013	Position X : 663	Position Y : 218
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638048	Value Type : Float
+Type : Digital	Address : 638048	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 65536	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11754,19 +11842,19 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000727	Position X : 806	Position Y : 218
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7082000728	Position X : 806	Position Y : 251
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : pulse
+Type : Label
 
 Node ID : 7082000729	Position X : 544	Position Y : 251
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 編碼器
+Type : Label
 
 Node ID : 7083000014	Position X : 663	Position Y : 251
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638049	Value Type : Float
+Type : Digital	Address : 638049	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 200000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11775,11 +11863,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000730	Position X : 545	Position Y : 350
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 電子齒輪比
+Type : Label
 
 Node ID : 7083000015	Position X : 663	Position Y : 350
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 640291	Value Type : Float
+Type : Digital	Address : 640291	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11788,15 +11876,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000731	Position X : 806	Position Y : 350
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/pulse
+Type : Label
 
 Node ID : 7082000732	Position X : 545	Position Y : 517
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 減速機齒比
+Type : Label
 
 Node ID : 7083000016	Position X : 663	Position Y : 517
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638111	Value Type : Float
+Type : Digital	Address : 638111	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11805,11 +11893,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000733	Position X : 545	Position Y : 550
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 機構齒輪比
+Type : Label
 
 Node ID : 7083000017	Position X : 663	Position Y : 550
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638112	Value Type : Float
+Type : Digital	Address : 638112	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : -1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
@@ -11818,11 +11906,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000734	Position X : 545	Position Y : 451
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 輪外徑
+Type : Label
 
 Node ID : 7083000018	Position X : 663	Position Y : 451
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638109	Value Type : Float
+Type : Digital	Address : 638109	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 65536	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11831,19 +11919,19 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000735	Position X : 806	Position Y : 451
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7082000736	Position X : 806	Position Y : 484
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : pulse
+Type : Label
 
 Node ID : 7082000737	Position X : 545	Position Y : 484
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 編碼器
+Type : Label
 
 Node ID : 7083000019	Position X : 663	Position Y : 484
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638110	Value Type : Float
+Type : Digital	Address : 638110	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 200000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11852,11 +11940,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000738	Position X : 546	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 電子齒輪比
+Type : Label
 
 Node ID : 7083000020	Position X : 663	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 640293	Value Type : Float
+Type : Digital	Address : 640293	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 9999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -11865,11 +11953,11 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7082000739	Position X : 806	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/pulse
+Type : Label
 
 Node ID : 7082000740	Position X : 287	Position Y : 22
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 齒輪比設定(2)
+Type : Label
 
 --------------------------------------------------------------------
 
@@ -11880,50 +11968,47 @@ Node ID : 711100041	Position X : 956	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : home001.png	Text : 
-Password : 0
+Soft Key : Do not use	Icon : home001.png	Password : 0
 
 Node ID : 711100044	Position X : 850	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Text : 
-Password : 0
+Soft Key : F16	Icon : return005.png	Password : 0
 
 Node ID : 711100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
-Soft Key : Do not use	Icon : menu002.png	Text : 
-Password : 0
+Soft Key : Do not use	Icon : menu002.png	Password : 0
 
 Node ID : 711200071	Position X : 303	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 版本編號
+Type : Label
 
 Node ID : 711200072	Position X : 397	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : v1.0.0.0
+Type : Label
 
 Node ID : 711200073	Position X : 304	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 日期
+Type : Label
 
 Node ID : 711200074	Position X : 397	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 2022/03/23
+Type : Label
 
 Node ID : 711200075	Position X : 304	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 時間
+Type : Label
 
 Node ID : 711200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 13:25:00
+Type : Label
 
 Node ID : 711200077	Position X : 654	Position Y : 98
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 程式連線狀態
+Type : Label
 
 Node ID : 711300041	Position X : 607	Position Y : 97
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
@@ -11935,63 +12020,57 @@ Node ID : 711100042	Position X : 372	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 703
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(3)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 711100043	Position X : 666	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 705
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(5)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 711100046	Position X : 813	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 0
-Soft Key : Do not use	Icon : 	Text : 
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 711100047	Position X : 225	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 702
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(2)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 711100048	Position X : 78	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 701
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(1)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 711100049	Position X : 519	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 704
-Soft Key : Do not use	Icon : 	Text : 齒輪比設定(4)
-Password : 0
+Soft Key : Do not use	Icon : 	Password : 0
 
 Node ID : 711200078	Position X : 287	Position Y : 22
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 系統參數 (1)
+Type : Label
 
 Node ID : 711200111	Position X : 532	Position Y : 152
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 橫移
+Type : Group Box
 
 Node ID : 711200112	Position X : 100	Position Y : 152
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 直行
+Type : Group Box
 
 Node ID : 711200079	Position X : 118	Position Y : 201
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 自動速度(有載)
+Type : Label
 
 Node ID : 711300001	Position X : 308	Position Y : 201
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638001	Value Type : Float
+Type : Digital	Address : 638001	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 5000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12000,15 +12079,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000710	Position X : 438	Position Y : 202
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000711	Position X : 118	Position Y : 234
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 自動速度(無載)
+Type : Label
 
 Node ID : 711300002	Position X : 308	Position Y : 234
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638002	Value Type : Float
+Type : Digital	Address : 638002	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 5000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12017,15 +12096,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000712	Position X : 438	Position Y : 235
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000713	Position X : 118	Position Y : 267
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 自動加速度(有載)
+Type : Label
 
 Node ID : 711300003	Position X : 308	Position Y : 267
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638003	Value Type : Float
+Type : Digital	Address : 638003	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 3000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12034,15 +12113,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000714	Position X : 438	Position Y : 268
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000715	Position X : 118	Position Y : 301
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 自動減速度(有載)
+Type : Label
 
 Node ID : 711300004	Position X : 308	Position Y : 301
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638004	Value Type : Float
+Type : Digital	Address : 638004	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 3000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12051,15 +12130,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000716	Position X : 438	Position Y : 302
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000717	Position X : 118	Position Y : 335
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 自動加速度(無載)
+Type : Label
 
 Node ID : 711300005	Position X : 308	Position Y : 335
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638005	Value Type : Float
+Type : Digital	Address : 638005	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 3000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12068,15 +12147,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000718	Position X : 438	Position Y : 336
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000719	Position X : 118	Position Y : 368
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 自動減速度(無載)
+Type : Label
 
 Node ID : 711300006	Position X : 308	Position Y : 368
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638006	Value Type : Float
+Type : Digital	Address : 638006	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 3000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12085,15 +12164,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000720	Position X : 438	Position Y : 369
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000721	Position X : 118	Position Y : 401
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 急停減速度
+Type : Label
 
 Node ID : 711300007	Position X : 308	Position Y : 401
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638008	Value Type : Float
+Type : Digital	Address : 638008	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 3000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12102,15 +12181,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000722	Position X : 438	Position Y : 402
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000723	Position X : 118	Position Y : 486
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 定位片長度
+Type : Label
 
 Node ID : 711300008	Position X : 308	Position Y : 486
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638013	Value Type : Float
+Type : Digital	Address : 638013	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 200	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12119,15 +12198,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000724	Position X : 438	Position Y : 487
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7112000725	Position X : 118	Position Y : 519
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 單格距離
+Type : Label
 
 Node ID : 711300009	Position X : 308	Position Y : 519
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638014	Value Type : Float
+Type : Digital	Address : 638014	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 2000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12136,15 +12215,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000726	Position X : 438	Position Y : 520
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7112000727	Position X : 118	Position Y : 552
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 至換向板距離
+Type : Label
 
 Node ID : 7113000010	Position X : 308	Position Y : 552
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638015	Value Type : Float
+Type : Digital	Address : 638015	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 2000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12153,15 +12232,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000728	Position X : 438	Position Y : 553
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7112000729	Position X : 118	Position Y : 453
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 運行超時時間
+Type : Label
 
 Node ID : 7113000011	Position X : 308	Position Y : 453
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638009	Value Type : Float
+Type : Digital	Address : 638009	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 3000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12170,35 +12249,35 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000730	Position X : 438	Position Y : 454
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 0.1 sec
+Type : Label
 
 Node ID : 7112000731	Position X : 477	Position Y : 263
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 2
+Type : Label
 
 Node ID : 7112000732	Position X : 477	Position Y : 297
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 2
+Type : Label
 
 Node ID : 7112000733	Position X : 477	Position Y : 331
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 2
+Type : Label
 
 Node ID : 7112000734	Position X : 477	Position Y : 364
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 2
+Type : Label
 
 Node ID : 7112000735	Position X : 477	Position Y : 396
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 2
+Type : Label
 
 Node ID : 7112000736	Position X : 118	Position Y : 586
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 二修速度
+Type : Label
 
 Node ID : 7113000012	Position X : 308	Position Y : 586
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638016	Value Type : Float
+Type : Digital	Address : 638016	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 2000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12207,15 +12286,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000737	Position X : 438	Position Y : 587
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000738	Position X : 118	Position Y : 619
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 二修啟動距離
+Type : Label
 
 Node ID : 7113000013	Position X : 308	Position Y : 619
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638017	Value Type : Float
+Type : Digital	Address : 638017	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 2000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12224,15 +12303,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000739	Position X : 438	Position Y : 620
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7112000740	Position X : 550	Position Y : 201
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 自動速度(有載)
+Type : Label
 
 Node ID : 7113000014	Position X : 740	Position Y : 201
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638031	Value Type : Float
+Type : Digital	Address : 638031	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 5000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12241,15 +12320,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000741	Position X : 870	Position Y : 202
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000742	Position X : 550	Position Y : 234
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 自動速度(無載)
+Type : Label
 
 Node ID : 7113000015	Position X : 740	Position Y : 234
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638032	Value Type : Float
+Type : Digital	Address : 638032	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 5000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12258,15 +12337,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000743	Position X : 870	Position Y : 235
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000744	Position X : 550	Position Y : 267
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 自動加速度(有載)
+Type : Label
 
 Node ID : 7113000016	Position X : 740	Position Y : 267
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638033	Value Type : Float
+Type : Digital	Address : 638033	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 3000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12275,15 +12354,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000745	Position X : 870	Position Y : 268
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000746	Position X : 550	Position Y : 301
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 自動減速度(有載)
+Type : Label
 
 Node ID : 7113000017	Position X : 740	Position Y : 301
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638034	Value Type : Float
+Type : Digital	Address : 638034	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 3000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12292,15 +12371,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000747	Position X : 870	Position Y : 302
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000748	Position X : 550	Position Y : 335
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 自動加速度(無載)
+Type : Label
 
 Node ID : 7113000018	Position X : 740	Position Y : 335
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638035	Value Type : Float
+Type : Digital	Address : 638035	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 3000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12309,15 +12388,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000749	Position X : 870	Position Y : 336
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000750	Position X : 550	Position Y : 368
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 自動減速度(無載)
+Type : Label
 
 Node ID : 7113000019	Position X : 740	Position Y : 368
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638036	Value Type : Float
+Type : Digital	Address : 638036	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 3000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12326,15 +12405,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000751	Position X : 870	Position Y : 369
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000752	Position X : 550	Position Y : 401
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 急停減速度
+Type : Label
 
 Node ID : 7113000020	Position X : 740	Position Y : 401
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638038	Value Type : Float
+Type : Digital	Address : 638038	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 3000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12343,15 +12422,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000753	Position X : 870	Position Y : 402
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000754	Position X : 550	Position Y : 486
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 定位片長度
+Type : Label
 
 Node ID : 7113000021	Position X : 740	Position Y : 486
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638043	Value Type : Float
+Type : Digital	Address : 638043	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 200	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12360,15 +12439,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000755	Position X : 870	Position Y : 487
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7112000756	Position X : 550	Position Y : 519
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 單格距離
+Type : Label
 
 Node ID : 7113000022	Position X : 740	Position Y : 519
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638044	Value Type : Float
+Type : Digital	Address : 638044	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 4000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12377,15 +12456,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000757	Position X : 870	Position Y : 520
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7112000758	Position X : 550	Position Y : 552
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 至換向板距離
+Type : Label
 
 Node ID : 7113000023	Position X : 740	Position Y : 552
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638045	Value Type : Float
+Type : Digital	Address : 638045	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 4000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12394,15 +12473,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000759	Position X : 870	Position Y : 553
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 Node ID : 7112000760	Position X : 550	Position Y : 453
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 運行超時時間
+Type : Label
 
 Node ID : 7113000024	Position X : 740	Position Y : 453
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638039	Value Type : Float
+Type : Digital	Address : 638039	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 3000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12411,35 +12490,35 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000761	Position X : 870	Position Y : 454
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 0.1 sec
+Type : Label
 
 Node ID : 7112000762	Position X : 909	Position Y : 264
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 2
+Type : Label
 
 Node ID : 7112000763	Position X : 909	Position Y : 298
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 2
+Type : Label
 
 Node ID : 7112000764	Position X : 909	Position Y : 332
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 2
+Type : Label
 
 Node ID : 7112000765	Position X : 909	Position Y : 365
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 2
+Type : Label
 
 Node ID : 7112000766	Position X : 909	Position Y : 397
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 2
+Type : Label
 
 Node ID : 7112000767	Position X : 550	Position Y : 586
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 二修速度
+Type : Label
 
 Node ID : 7113000025	Position X : 740	Position Y : 586
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638046	Value Type : Float
+Type : Digital	Address : 638046	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 2000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12448,15 +12527,15 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000768	Position X : 870	Position Y : 587
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm/s
+Type : Label
 
 Node ID : 7112000769	Position X : 550	Position Y : 619
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : 二修啟動距離
+Type : Label
 
 Node ID : 7113000026	Position X : 740	Position Y : 619
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 638047	Value Type : Float
+Type : Digital	Address : 638047	Value Type : ULong
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 2000	Min : 1	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -12465,7 +12544,7 @@ Rev2 : 0	Rev3 : 0
 
 Node ID : 7112000770	Position X : 870	Position Y : 620
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label	Text : mm
+Type : Label
 
 --------------------------------------------------------------------
 

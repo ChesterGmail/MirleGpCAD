@@ -56,13 +56,13 @@ Type : Switch	Address : 289999	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 701200111	Position X : 351	Position Y : 157
+Node ID : 701200111	Position X : 352	Position Y : 154
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 第2軸馬達(手臂 - T軸)
+Type : Group Box	Text : 第2軸馬達(供料手臂 - Y軸)
 
-Node ID : 701200112	Position X : 676	Position Y : 157
+Node ID : 701200112	Position X : 675	Position Y : 156
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 第3軸馬達(供料手臂 - Y軸)
+Type : Group Box	Text : 第3軸馬達(出料手臂 - Y軸)
 
 Node ID : 701200113	Position X : 26	Position Y : 157
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -191,7 +191,7 @@ Node ID : 701300008	Position X : 783	Position Y : 298
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 635023	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 2300	Min : -99999999	Max E.V. : 0
+Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
 Integer Digits : 8	Precision : 1	Rev1 : 0
 Rev2 : 0	Rev3 : 0
@@ -200,7 +200,7 @@ Node ID : 701300009	Position X : 783	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 635024	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 99999999	Min : 0	Max E.V. : 0
+Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
 Integer Digits : 8	Precision : 1	Rev1 : 0
 Rev2 : 0	Rev3 : 0

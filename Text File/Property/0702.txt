@@ -66,7 +66,7 @@ Type : Group Box	Text : 第6軸馬達(儲料槽2 - T軸)
 
 Node ID : 702200113	Position X : 26	Position Y : 157
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Group Box	Text : 第4軸馬達(出料手臂 - Y軸)
+Type : Group Box	Text : 第4軸馬達(手臂 - T軸)
 
 Node ID : 702200078	Position X : 29	Position Y : 299
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000

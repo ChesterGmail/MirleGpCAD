@@ -110,14 +110,14 @@ Enable Mode : All	Level : 0	Page Name : 310
 Soft Key : Do not use	Icon : 	Text : 手臂 - Z軸
 Password : 0
 
-Node ID : 3071000410	Position X : 362	Position Y : 592
+Node ID : 3071000410	Position X : 209	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 311
 Soft Key : Do not use	Icon : 	Text : 手臂入料 - Y軸
 Password : 0
 
-Node ID : 3071000411	Position X : 207	Position Y : 592
+Node ID : 3071000411	Position X : 525	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 309
@@ -131,7 +131,7 @@ Enable Mode : All	Level : 0	Page Name : 308
 Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
 Password : 0
 
-Node ID : 3071000413	Position X : 517	Position Y : 592
+Node ID : 3071000413	Position X : 365	Position Y : 593
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 312
@@ -377,7 +377,7 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 307300008	Position X : 78	Position Y : 445
+Node ID : 307300008	Position X : 78	Position Y : 504
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 657260	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
@@ -385,4 +385,14 @@ Max : 0	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 0	Rev1 : 0
 Rev2 : 0	Rev3 : 0
+
+Node ID : 3072000727	Position X : 83	Position Y : 452
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : Busy
+
+Node ID : 307300047	Position X : 36	Position Y : 450
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 657261	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
