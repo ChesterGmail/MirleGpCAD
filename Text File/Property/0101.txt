@@ -5,64 +5,64 @@ Node ID : 101100041	Position X : 956	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : home001.png	Password : 0
-
-Node ID : 101100044	Position X : 850	Position Y : 23
-Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 0000
-Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Password : 0
+Soft Key : Do not use	Icon : home001.png	Text : 
+Password : 0
 
 Node ID : 101100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
-Soft Key : Do not use	Icon : menu002.png	Password : 0
+Soft Key : Do not use	Icon : menu002.png	Text : 
+Password : 0
 
-Node ID : 101200071	Position X : 303	Position Y : 92
+Node ID : 101200071	Position X : 557	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 版本編號
 
-Node ID : 101200072	Position X : 397	Position Y : 92
+Node ID : 101200072	Position X : 651	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : v1.0.0.0
 
 Node ID : 101200073	Position X : 304	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 日期
 
 Node ID : 101200074	Position X : 397	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 2022/03/23
 
 Node ID : 101200075	Position X : 304	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 時間
 
 Node ID : 101200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 13:25:00
 
-Node ID : 101200077	Position X : 654	Position Y : 98
+Node ID : 101200077	Position X : 557	Position Y : 60
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 程式連線狀態
 
-Node ID : 101300041	Position X : 607	Position Y : 97
+Node ID : 101300041	Position X : 678	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Switch	Address : 289999	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 101200001	Position X : 166	Position Y : 691
+Node ID : 101200001	Position X : 297	Position Y : 100
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Message Box	Address : 0	Display Type : Static
+
+Node ID : 101200002	Position X : 166	Position Y : 691
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Message Box	Address : 0
+Type : Message Box	Address : 0	Display Type : Static
 
 Node ID : 101100001	Position X : 890	Position Y : 692
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 640081	Cursor Order : 0300
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
-Password : 0
+Text : 警報清除	Password : 0
 
 Node ID : 101300051	Position X : 94	Position Y : 686
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -70,9 +70,10 @@ Type : Action	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Start Bit : 0
 End Bit : 0	Mask : 0001	State Sum : 2
 
-Node ID : 101100042	Position X : 850	Position Y : 89
+Node ID : 101100042	Position X : 740	Position Y : 24
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : next009.jpg	Password : 0
+Soft Key : Do not use	Icon : next009.jpg	Text : 
+Password : 0
 

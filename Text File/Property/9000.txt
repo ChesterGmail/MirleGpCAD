@@ -8,13 +8,6 @@ Enable Mode : All	Level : 1	Page Name : 100
 Soft Key : Do not use	Icon : home001.png	Text : 
 Password : 0
 
-Node ID : 9000100044	Position X : 850	Position Y : 23
-Display Addr. : 0	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 0000
-Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Text : 
-Password : 0
-
 Node ID : 9000100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
@@ -22,11 +15,11 @@ Enable Mode : All	Level : 1	Page Name : 115
 Soft Key : Do not use	Icon : menu002.png	Text : 
 Password : 0
 
-Node ID : 9000200071	Position X : 303	Position Y : 92
+Node ID : 9000200071	Position X : 557	Position Y : 24
 Display Addr. : 0	Mask(Display Addr.) : 0000
 Type : Label	Text : 版本編號
 
-Node ID : 9000200072	Position X : 397	Position Y : 92
+Node ID : 9000200072	Position X : 651	Position Y : 24
 Display Addr. : 0	Mask(Display Addr.) : 0000
 Type : Label	Text : v1.0.0.0
 
@@ -46,13 +39,17 @@ Node ID : 9000200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Mask(Display Addr.) : 0000
 Type : Label	Text : 13:25:00
 
-Node ID : 9000200077	Position X : 654	Position Y : 98
+Node ID : 9000200077	Position X : 557	Position Y : 60
 Display Addr. : 0	Mask(Display Addr.) : 0000
 Type : Label	Text : 程式連線狀態
 
-Node ID : 9000300041	Position X : 607	Position Y : 97
+Node ID : 9000300041	Position X : 678	Position Y : 58
 Display Addr. : 0	Mask(Display Addr.) : 0000
 Type : Switch	Address : 289999	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
+Node ID : 9000200001	Position X : 297	Position Y : 100
+Display Addr. : 0	Mask(Display Addr.) : 0000
+Type : Message Box	Address : 0	Display Type : Static
 

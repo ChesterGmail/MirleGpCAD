@@ -7,23 +7,17 @@ Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
 Soft Key : Do not use	Icon : home001.png	Password : 0
 
-Node ID : 115100044	Position X : 850	Position Y : 23
-Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 0000
-Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Password : 0
-
 Node ID : 115100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
 Soft Key : Do not use	Icon : menu002.png	Password : 0
 
-Node ID : 115200071	Position X : 303	Position Y : 92
+Node ID : 115200071	Position X : 557	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 115200072	Position X : 397	Position Y : 92
+Node ID : 115200072	Position X : 651	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -43,15 +37,19 @@ Node ID : 115200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 115200077	Position X : 654	Position Y : 98
+Node ID : 115200077	Position X : 557	Position Y : 60
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 115300041	Position X : 607	Position Y : 97
+Node ID : 115300041	Position X : 678	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Switch	Address : 289999	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
+Node ID : 115200001	Position X : 297	Position Y : 100
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Message Box	Address : 0
 
 Node ID : 115100042	Position X : 307	Position Y : 241
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -65,57 +63,63 @@ Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 301
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 115100046	Position X : 773	Position Y : 241
+Node ID : 115100044	Position X : 773	Position Y : 241
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 304
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 115100047	Position X : 773	Position Y : 390
+Node ID : 115100046	Position X : 773	Position Y : 390
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 400
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 115100048	Position X : 307	Position Y : 241
+Node ID : 115100047	Position X : 307	Position Y : 241
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 201
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 115100049	Position X : 74	Position Y : 241
+Node ID : 115100048	Position X : 74	Position Y : 241
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 100
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 1151000410	Position X : 773	Position Y : 240
+Node ID : 115100049	Position X : 773	Position Y : 240
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 701
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 1151000411	Position X : 540	Position Y : 390
+Node ID : 1151000410	Position X : 540	Position Y : 390
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 912
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 1151000412	Position X : 307	Position Y : 392
+Node ID : 1151000411	Position X : 307	Position Y : 392
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 701
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 1151000413	Position X : 74	Position Y : 392
+Node ID : 1151000412	Position X : 74	Position Y : 392
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 600
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 1151000414	Position X : 540	Position Y : 241
+Node ID : 1151000413	Position X : 540	Position Y : 241
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 310
+Soft Key : Do not use	Icon : 	Password : 0
+
+Node ID : 1151000414	Position X : 73	Position Y : 543
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 0	Page Name : 114
 Soft Key : Do not use	Icon : 	Password : 0
 

@@ -7,23 +7,17 @@ Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
 Soft Key : Do not use	Icon : home001.png	Password : 0
 
-Node ID : 906100044	Position X : 850	Position Y : 23
-Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 0000
-Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Password : 0
-
 Node ID : 906100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
 Soft Key : Do not use	Icon : menu002.png	Password : 0
 
-Node ID : 906200071	Position X : 303	Position Y : 92
+Node ID : 906200071	Position X : 557	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 906200072	Position X : 397	Position Y : 92
+Node ID : 906200072	Position X : 651	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Label
 
@@ -43,15 +37,19 @@ Node ID : 906200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 906200077	Position X : 654	Position Y : 98
+Node ID : 906200077	Position X : 557	Position Y : 60
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 906300041	Position X : 607	Position Y : 97
+Node ID : 906300041	Position X : 678	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Switch	Address : 289999	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
+Node ID : 906200001	Position X : 297	Position Y : 100
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Message Box	Address : 0
 
 Node ID : 906200111	Position X : 34	Position Y : 159
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
@@ -77,25 +75,25 @@ Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 905
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 906100046	Position X : 813	Position Y : 669
+Node ID : 906100044	Position X : 813	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 906
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 906100047	Position X : 225	Position Y : 669
+Node ID : 906100046	Position X : 225	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 902
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 906100048	Position X : 78	Position Y : 669
+Node ID : 906100047	Position X : 78	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 901
 Soft Key : Do not use	Icon : 	Password : 0
 
-Node ID : 906100049	Position X : 519	Position Y : 669
+Node ID : 906100048	Position X : 519	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0	Page Name : 904
@@ -567,7 +565,7 @@ Node ID : 9062000752	Position X : 627	Position Y : 273
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label
 
-Node ID : 906200001	Position X : 88	Position Y : 623
+Node ID : 906200002	Position X : 88	Position Y : 623
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Message Box	Address : 0
 
