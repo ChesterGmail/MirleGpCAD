@@ -56,7 +56,7 @@ Type : Switch	Address : 289999	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 305200111	Position X : 657	Position Y : 156
+Node ID : 305200111	Position X : 656	Position Y : 156
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : Move
 
@@ -249,7 +249,7 @@ Node ID : 3052000722	Position X : 535	Position Y : 398
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : mm/s2
 
-Node ID : 305100004	Position X : 690	Position Y : 504
+Node ID : 305100004	Position X : 690	Position Y : 502
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657186	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
@@ -320,7 +320,7 @@ Type : Digital	Address : 657209	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 305300002	Position X : 802	Position Y : 454
@@ -329,7 +329,7 @@ Type : Digital	Address : 657210	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 305300003	Position X : 362	Position Y : 205

@@ -148,7 +148,7 @@ Type : Digital	Address : 635041	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 3	Precision : 6	Rev1 : 0
+Integer Digits : 3	Precision : 7	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 702300004	Position X : 458	Position Y : 362
@@ -191,18 +191,18 @@ Node ID : 702300008	Position X : 783	Position Y : 298
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 635053	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 2300	Min : -99999999	Max E.V. : 0
+Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
-Integer Digits : 8	Precision : 1	Rev1 : 0
+Integer Digits : 7	Precision : 1	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 702300009	Position X : 783	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 635054	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 99999999	Min : 0	Max E.V. : 0
+Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
-Integer Digits : 8	Precision : 1	Rev1 : 0
+Integer Digits : 7	Precision : 1	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 7023000010	Position X : 782	Position Y : 201
@@ -211,7 +211,7 @@ Type : Digital	Address : 635051	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 3	Precision : 6	Rev1 : 0
+Integer Digits : 3	Precision : 7	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 7023000011	Position X : 783	Position Y : 362
@@ -328,7 +328,7 @@ Type : Digital	Address : 635031	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 3	Precision : 6	Rev1 : 0
+Integer Digits : 3	Precision : 7	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 7023000020	Position X : 132	Position Y : 298

@@ -4260,7 +4260,7 @@ Type : Digital	Address : 657149	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 303300008	Position X : 807	Position Y : 457
@@ -4269,7 +4269,7 @@ Type : Digital	Address : 657150	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 303300009	Position X : 252	Position Y : 521
@@ -4691,7 +4691,7 @@ Type : Digital	Address : 657179	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 304300008	Position X : 807	Position Y : 458
@@ -4700,7 +4700,7 @@ Type : Digital	Address : 657180	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 3042000727	Position X : 82	Position Y : 455
@@ -4773,7 +4773,7 @@ Type : Switch	Address : 289999	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 305200111	Position X : 657	Position Y : 156
+Node ID : 305200111	Position X : 656	Position Y : 156
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Group Box	Text : Move
 
@@ -4966,7 +4966,7 @@ Node ID : 3052000722	Position X : 535	Position Y : 398
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Label	Text : mm/s2
 
-Node ID : 305100004	Position X : 690	Position Y : 504
+Node ID : 305100004	Position X : 690	Position Y : 502
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Push Button	Address : 657186	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
@@ -5037,7 +5037,7 @@ Type : Digital	Address : 657209	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 305300002	Position X : 802	Position Y : 454
@@ -5046,7 +5046,7 @@ Type : Digital	Address : 657210	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 305300003	Position X : 362	Position Y : 205
@@ -5491,7 +5491,7 @@ Type : Digital	Address : 657239	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 306300008	Position X : 809	Position Y : 459
@@ -5500,7 +5500,7 @@ Type : Digital	Address : 657240	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 3062000727	Position X : 81	Position Y : 452
@@ -5837,7 +5837,7 @@ Type : Digital	Address : 657269	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 307300002	Position X : 807	Position Y : 459
@@ -5846,7 +5846,7 @@ Type : Digital	Address : 657270	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 307300003	Position X : 360	Position Y : 199
@@ -6291,7 +6291,7 @@ Type : Digital	Address : 657299	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 308300008	Position X : 799	Position Y : 462
@@ -6300,7 +6300,7 @@ Type : Digital	Address : 657300	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 3082000727	Position X : 84	Position Y : 453
@@ -6691,7 +6691,7 @@ Type : Digital	Address : 657059	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 309300008	Position X : 803	Position Y : 461
@@ -6700,7 +6700,7 @@ Type : Digital	Address : 657060	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 3092000727	Position X : 81	Position Y : 451
@@ -7091,7 +7091,7 @@ Type : Digital	Address : 657029	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 310300008	Position X : 805	Position Y : 458
@@ -7100,7 +7100,7 @@ Type : Digital	Address : 657030	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 3102000727	Position X : 83	Position Y : 450
@@ -7491,7 +7491,7 @@ Type : Digital	Address : 657089	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 311300008	Position X : 806	Position Y : 462
@@ -7500,7 +7500,7 @@ Type : Digital	Address : 657090	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 3112000727	Position X : 81	Position Y : 448
@@ -7891,7 +7891,7 @@ Type : Digital	Address : 657119	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 312300008	Position X : 806	Position Y : 458
@@ -7900,7 +7900,7 @@ Type : Digital	Address : 657120	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 3122000727	Position X : 81	Position Y : 449
@@ -8909,50 +8909,47 @@ Node ID : 504100041	Position X : 956	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : home001.png	Text : 
-Password : 0
+Soft Key : Do not use	Icon : home001.png	Password : 0
 
 Node ID : 504100044	Position X : 850	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : F16	Icon : return005.png	Text : 
-Password : 0
+Soft Key : F16	Icon : return005.png	Password : 0
 
 Node ID : 504100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
-Soft Key : Do not use	Icon : menu002.png	Text : 
-Password : 0
+Soft Key : Do not use	Icon : menu002.png	Password : 0
 
 Node ID : 504200071	Position X : 303	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 版本編號
+Type : Label
 
 Node ID : 504200072	Position X : 397	Position Y : 92
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : v1.0.0.0
+Type : Label
 
 Node ID : 504200073	Position X : 304	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 日期
+Type : Label
 
 Node ID : 504200074	Position X : 397	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 2022/03/23
+Type : Label
 
 Node ID : 504200075	Position X : 304	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 時間
+Type : Label
 
 Node ID : 504200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 13:25:00
+Type : Label
 
 Node ID : 504200077	Position X : 654	Position Y : 98
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label	Text : 程式連線狀態
+Type : Label
 
 Node ID : 504300041	Position X : 607	Position Y : 97
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
@@ -9373,7 +9370,7 @@ Type : Digital	Address : 635001	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 3	Precision : 6	Rev1 : 0
+Integer Digits : 3	Precision : 7	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 7013000020	Position X : 132	Position Y : 298
@@ -9715,7 +9712,7 @@ Type : Digital	Address : 635041	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 3	Precision : 6	Rev1 : 0
+Integer Digits : 3	Precision : 7	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 702300004	Position X : 458	Position Y : 362
@@ -9758,18 +9755,18 @@ Node ID : 702300008	Position X : 783	Position Y : 298
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 635053	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 2300	Min : -99999999	Max E.V. : 0
+Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
-Integer Digits : 8	Precision : 1	Rev1 : 0
+Integer Digits : 7	Precision : 1	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 702300009	Position X : 783	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 635054	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 99999999	Min : 0	Max E.V. : 0
+Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
-Integer Digits : 8	Precision : 1	Rev1 : 0
+Integer Digits : 7	Precision : 1	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 7023000010	Position X : 782	Position Y : 201
@@ -9778,7 +9775,7 @@ Type : Digital	Address : 635051	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 3	Precision : 6	Rev1 : 0
+Integer Digits : 3	Precision : 7	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 7023000011	Position X : 783	Position Y : 362
@@ -9895,7 +9892,7 @@ Type : Digital	Address : 635031	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 3	Precision : 6	Rev1 : 0
+Integer Digits : 3	Precision : 7	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 7023000020	Position X : 132	Position Y : 298
@@ -10237,7 +10234,7 @@ Type : Digital	Address : 635071	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 3	Precision : 6	Rev1 : 0
+Integer Digits : 3	Precision : 7	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 703300004	Position X : 458	Position Y : 362
@@ -10280,18 +10277,18 @@ Node ID : 703300008	Position X : 783	Position Y : 298
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 635083	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 2300	Min : -99999999	Max E.V. : 0
+Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
-Integer Digits : 8	Precision : 1	Rev1 : 0
+Integer Digits : 7	Precision : 1	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 703300009	Position X : 783	Position Y : 330
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 635084	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 99999999	Min : 0	Max E.V. : 0
+Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 1
-Integer Digits : 8	Precision : 1	Rev1 : 0
+Integer Digits : 7	Precision : 1	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 7033000010	Position X : 782	Position Y : 201
@@ -10300,7 +10297,7 @@ Type : Digital	Address : 635081	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 3	Precision : 6	Rev1 : 0
+Integer Digits : 3	Precision : 7	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 7033000011	Position X : 783	Position Y : 362
@@ -10424,7 +10421,7 @@ Node ID : 7033000020	Position X : 132	Position Y : 298
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 635063	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 99999999	Min : 0	Max E.V. : 0
+Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 7	Precision : 1	Rev1 : 0
 Rev2 : 0	Rev3 : 0
@@ -10787,14 +10784,14 @@ Type : Digital	Address : 635091	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 99999999	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 3	Precision : 6	Rev1 : 0
+Integer Digits : 3	Precision : 7	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 704300004	Position X : 132	Position Y : 298
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 635093	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 99999999	Min : 0	Max E.V. : 0
+Max : 99999999	Min : -99999999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 7	Precision : 1	Rev1 : 0
 Rev2 : 0	Rev3 : 0

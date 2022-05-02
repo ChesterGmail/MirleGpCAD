@@ -374,7 +374,7 @@ Type : Digital	Address : 657029	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 310300008	Position X : 805	Position Y : 458
@@ -383,7 +383,7 @@ Type : Digital	Address : 657030	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 10000	Min : -10000	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 0	Rev1 : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
 Node ID : 3102000727	Position X : 83	Position Y : 450
