@@ -1,0 +1,106 @@
+Page Name : 0900.gpg
+
+
+Node ID : 900100041	Position X : 956	Position Y : 23
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 1	Page Name : 100
+Soft Key : Do not use	Icon : home001.png	Text : 
+Password : 0
+
+Node ID : 900100045	Position X : 903	Position Y : 23
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 1	Page Name : 115
+Soft Key : Do not use	Icon : menu002.png	Text : 
+Password : 0
+
+Node ID : 900200071	Position X : 557	Position Y : 24
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : 版本編號
+
+Node ID : 900200072	Position X : 651	Position Y : 24
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : v1.0.0.0
+
+Node ID : 900200073	Position X : 304	Position Y : 24
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : 日期
+
+Node ID : 900200074	Position X : 397	Position Y : 24
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : 2022/03/23
+
+Node ID : 900200075	Position X : 304	Position Y : 58
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : 時間
+
+Node ID : 900200076	Position X : 397	Position Y : 58
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : 13:25:00
+
+Node ID : 900200077	Position X : 557	Position Y : 60
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Label	Text : 程式連線狀態
+
+Node ID : 900300041	Position X : 678	Position Y : 58
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Switch	Address : 289999	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
+Node ID : 900200001	Position X : 297	Position Y : 100
+Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
+Type : Message Box	Address : 0	Display Type : Static
+
+Node ID : 900100001	Position X : 651	Position Y : 263
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 641009	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
+Text : Task Reset	Password : 0
+
+Node ID : 900100002	Position X : 803	Position Y : 262
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 641010	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
+Text : Start	Password : 0
+
+Node ID : 900300042	Position X : 53	Position Y : 174
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 650018	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
+Node ID : 900300043	Position X : 55	Position Y : 212
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Switch	Address : 650025	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
+Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
+
+Node ID : 900200079	Position X : 128	Position Y : 179
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : 入料Fork 對位檢1
+
+Node ID : 9002000710	Position X : 130	Position Y : 217
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : 入料Fork 對位檢2
+
+Node ID : 9002000711	Position X : 310	Position Y : 198
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : Position
+
+Node ID : 9002000712	Position X : 605	Position Y : 198
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : mm
+
+Node ID : 900300002	Position X : 427	Position Y : 194
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 657023	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 0	Min : 0	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+

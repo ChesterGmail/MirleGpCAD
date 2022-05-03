@@ -5,41 +5,43 @@ Node ID : 601100041	Position X : 956	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 100
-Soft Key : Do not use	Icon : home001.png	Password : 0
+Soft Key : Do not use	Icon : home001.png	Text : 
+Password : 0
 
 Node ID : 601100045	Position X : 903	Position Y : 23
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 115
-Soft Key : Do not use	Icon : menu002.png	Password : 0
+Soft Key : Do not use	Icon : menu002.png	Text : 
+Password : 0
 
 Node ID : 601200071	Position X : 557	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 版本編號
 
 Node ID : 601200072	Position X : 651	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : v1.0.0.0
 
 Node ID : 601200073	Position X : 304	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 日期
 
 Node ID : 601200074	Position X : 397	Position Y : 24
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 2022/03/23
 
 Node ID : 601200075	Position X : 304	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 時間
 
 Node ID : 601200076	Position X : 397	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 13:25:00
 
 Node ID : 601200077	Position X : 557	Position Y : 60
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 程式連線狀態
 
 Node ID : 601300041	Position X : 678	Position Y : 58
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
@@ -49,28 +51,28 @@ Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
 Node ID : 601200001	Position X : 297	Position Y : 100
 Display Addr. : 0	Template Use : 9000	Mask(Display Addr.) : 0000
-Type : Message Box	Address : 0
+Type : Message Box	Address : 0	Display Type : Static
 
-Node ID : 601100001	Position X : 367	Position Y : 278
+Node ID : 601100001	Position X : 367	Position Y : 277
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644157	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
-Password : 0
+Text : 取得當前點位	Password : 0
 
 Node ID : 601200078	Position X : 33	Position Y : 153
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 料塔1 - T軸點位設定
 
 Node ID : 601200079	Position X : 313	Position Y : 284
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : deg
 
 Node ID : 601300001	Position X : 154	Position Y : 280
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : ULong
+Type : Digital	Address : 644010	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
+Max : 360	Min : -360	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
@@ -79,323 +81,337 @@ Node ID : 601100042	Position X : 52	Position Y : 674
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1100
 Enable Mode : All	Level : 0	Page Name : 303
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : 料塔1 - T軸
+Password : 0
 
 Node ID : 601100043	Position X : 362	Position Y : 674
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
 Enable Mode : All	Level : 0	Page Name : 305
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : 料塔3 - T軸
+Password : 0
 
 Node ID : 601100044	Position X : 207	Position Y : 675
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 304
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : 料塔2 - T軸
+Password : 0
 
 Node ID : 601100046	Position X : 672	Position Y : 673
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 307
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : 料塔5 - T軸
+Password : 0
 
 Node ID : 601100047	Position X : 517	Position Y : 674
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 306
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : 料塔4 - T軸
+Password : 0
 
 Node ID : 601100048	Position X : 820	Position Y : 675
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
 Enable Mode : All	Level : 0	Page Name : 308
-Soft Key : Do not use	Icon : 	Password : 0
+Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
+Password : 0
 
 Node ID : 6012000710	Position X : 48	Position Y : 285
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
-
-Node ID : 601300002	Position X : 154	Position Y : 341
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : ULong
-Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
-Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 3	Rev1 : 0
-Rev2 : 0	Rev3 : 0
+Type : Label	Text : 第1排位置
 
 Node ID : 6012000711	Position X : 48	Position Y : 346
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 第2排位置
 
 Node ID : 6012000712	Position X : 313	Position Y : 341
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : deg
 
 Node ID : 601100002	Position X : 847	Position Y : 156
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 635000	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 1	Value 2 : 1	Icon : 
-Password : 0
+Type : Push Button	Address : 644001	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
+Text : 儲存點位	Password : 0
 
 Node ID : 601100003	Position X : 691	Position Y : 157
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 635000	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 2	Value 2 : 2	Icon : 
-Password : 0
-
-Node ID : 601300003	Position X : 154	Position Y : 401
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : ULong
-Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
-Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 3	Rev1 : 0
-Rev2 : 0	Rev3 : 0
+Type : Push Button	Address : 644002	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
+Text : 重新載入	Password : 0
 
 Node ID : 6012000713	Position X : 48	Position Y : 406
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 第3排位置
 
 Node ID : 6012000714	Position X : 313	Position Y : 401
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : deg
 
 Node ID : 601100004	Position X : 367	Position Y : 336
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644157	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
-Password : 0
+Text : 取得當前點位	Password : 0
 
 Node ID : 601100005	Position X : 367	Position Y : 398
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644157	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
-Password : 0
+Text : 取得當前點位	Password : 0
 
 Node ID : 601100006	Position X : 367	Position Y : 463
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644157	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
-Password : 0
+Text : 取得當前點位	Password : 0
 
 Node ID : 6012000715	Position X : 313	Position Y : 469
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
-
-Node ID : 601300004	Position X : 154	Position Y : 465
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : ULong
-Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
-Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 3	Rev1 : 0
-Rev2 : 0	Rev3 : 0
+Type : Label	Text : deg
 
 Node ID : 6012000716	Position X : 48	Position Y : 470
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
-
-Node ID : 601300005	Position X : 154	Position Y : 526
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : ULong
-Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
-Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 3	Rev1 : 0
-Rev2 : 0	Rev3 : 0
+Type : Label	Text : 第4排位置
 
 Node ID : 6012000717	Position X : 48	Position Y : 531
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 第5排位置
 
 Node ID : 6012000718	Position X : 313	Position Y : 526
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
-
-Node ID : 601300006	Position X : 154	Position Y : 586
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : ULong
-Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
-Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 3	Rev1 : 0
-Rev2 : 0	Rev3 : 0
+Type : Label	Text : deg
 
 Node ID : 6012000719	Position X : 48	Position Y : 591
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 第6排位置
 
 Node ID : 6012000720	Position X : 313	Position Y : 586
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : deg
 
 Node ID : 601100007	Position X : 367	Position Y : 521
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644157	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
-Password : 0
+Text : 取得當前點位	Password : 0
 
 Node ID : 601100008	Position X : 367	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644157	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
-Password : 0
+Text : 取得當前點位	Password : 0
 
 Node ID : 601100049	Position X : 850	Position Y : 23
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 114
-Soft Key : F16	Icon : return005.png	Password : 0
+Soft Key : F16	Icon : return005.png	Text : 
+Password : 0
 
 Node ID : 601100009	Position X : 852	Position Y : 277
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644157	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
-Password : 0
+Text : 取得當前點位	Password : 0
 
-Node ID : 6012000721	Position X : 798	Position Y : 283
+Node ID : 6012000721	Position X : 798	Position Y : 282
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
-
-Node ID : 601300007	Position X : 639	Position Y : 279
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : ULong
-Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
-Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 3	Rev1 : 0
-Rev2 : 0	Rev3 : 0
+Type : Label	Text : deg
 
 Node ID : 6012000722	Position X : 533	Position Y : 284
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
-
-Node ID : 601300008	Position X : 639	Position Y : 340
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : ULong
-Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
-Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 3	Rev1 : 0
-Rev2 : 0	Rev3 : 0
+Type : Label	Text : 第7排位置
 
 Node ID : 6012000723	Position X : 533	Position Y : 345
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 第8排位置
 
 Node ID : 6012000724	Position X : 798	Position Y : 340
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
-
-Node ID : 601300009	Position X : 639	Position Y : 400
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : ULong
-Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
-Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 3	Rev1 : 0
-Rev2 : 0	Rev3 : 0
+Type : Label	Text : deg
 
 Node ID : 6012000725	Position X : 533	Position Y : 405
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 第9排位置
 
 Node ID : 6012000726	Position X : 798	Position Y : 400
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : deg
 
 Node ID : 6011000010	Position X : 852	Position Y : 335
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644157	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
-Password : 0
+Text : 取得當前點位	Password : 0
 
 Node ID : 6011000011	Position X : 852	Position Y : 397
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644157	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
-Password : 0
+Text : 取得當前點位	Password : 0
 
 Node ID : 6011000012	Position X : 852	Position Y : 462
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644157	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
-Password : 0
+Text : 取得當前點位	Password : 0
 
 Node ID : 6012000727	Position X : 798	Position Y : 468
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
-
-Node ID : 6013000010	Position X : 639	Position Y : 464
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : ULong
-Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
-Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 3	Rev1 : 0
-Rev2 : 0	Rev3 : 0
+Type : Label	Text : deg
 
 Node ID : 6012000728	Position X : 533	Position Y : 469
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
-
-Node ID : 6013000011	Position X : 639	Position Y : 525
-Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : ULong
-Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
-Cursor Order : 0000	Enable Mode : All	Level : 0
-Integer Digits : 5	Precision : 3	Rev1 : 0
-Rev2 : 0	Rev3 : 0
+Type : Label	Text : 第10排位置
 
 Node ID : 6012000729	Position X : 533	Position Y : 530
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : 第11排位置
 
 Node ID : 6012000730	Position X : 798	Position Y : 525
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Label	Text : deg
 
-Node ID : 6013000012	Position X : 639	Position Y : 585
+Node ID : 6012000731	Position X : 533	Position Y : 590
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : ULong
+Type : Label	Text : 第12排位置
+
+Node ID : 6012000732	Position X : 798	Position Y : 585
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Label	Text : deg
+
+Node ID : 6011000013	Position X : 852	Position Y : 520
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 644157	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
+Text : 取得當前點位	Password : 0
+
+Node ID : 6011000014	Position X : 852	Position Y : 582
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Push Button	Address : 644157	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
+Text : 取得當前點位	Password : 0
+
+Node ID : 601300002	Position X : 154	Position Y : 339
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 644011	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
+Max : 360	Min : -360	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 6012000731	Position X : 533	Position Y : 590
+Node ID : 601300003	Position X : 153	Position Y : 401
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Digital	Address : 644012	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 360	Min : -360	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
 
-Node ID : 6012000732	Position X : 798	Position Y : 585
+Node ID : 601300004	Position X : 153	Position Y : 465
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Label
+Type : Digital	Address : 644013	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 360	Min : -360	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
 
-Node ID : 6011000013	Position X : 852	Position Y : 520
+Node ID : 601300005	Position X : 153	Position Y : 526
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : HOLD
-Value : 1	Value 2 : 0	Icon : 
-Password : 0
+Type : Digital	Address : 644014	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 360	Min : -360	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
 
-Node ID : 6011000014	Position X : 852	Position Y : 582
+Node ID : 601300006	Position X : 153	Position Y : 587
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : HOLD
-Value : 1	Value 2 : 0	Icon : 
+Type : Digital	Address : 644015	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 360	Min : -360	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 601300007	Position X : 637	Position Y : 279
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 644016	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 360	Min : -360	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 601300008	Position X : 637	Position Y : 337
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 644017	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 360	Min : -360	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 601300009	Position X : 637	Position Y : 399
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 644018	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 360	Min : -360	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 6013000010	Position X : 638	Position Y : 464
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 644019	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 360	Min : -360	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 6013000011	Position X : 639	Position Y : 524
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 644020	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 360	Min : -360	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 6013000012	Position X : 639	Position Y : 583
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 644021	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 360	Min : -360	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 6011000410	Position X : 292	Position Y : 153
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 1101
+Enable Mode : All	Level : 0	Page Name : 304
+Soft Key : Do not use	Icon : 	Text : Jog介面
 Password : 0
 
