@@ -144,3 +144,10 @@ Enable Mode : All	Level : 0	Page Name : 900
 Soft Key : Do not use	Icon : 	Text : 手臂教點
 Password : 0
 
+Node ID : 1151000416	Position X : 543	Position Y : 544
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 0000
+Enable Mode : All	Level : 0	Page Name : 800
+Soft Key : F3	Icon : 	Text : 模組測試
+Password : 0
+
