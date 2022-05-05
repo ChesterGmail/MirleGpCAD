@@ -79,25 +79,25 @@ Enable Mode : All	Level : 0	Input Mode : SWITCH
 Value : 0	Value 2 : 1	Icon : 
 Text : 自動模式	Password : 0
 
-Node ID : 100100002	Position X : 188	Position Y : 669
+Node ID : 100100002	Position X : 187	Position Y : 666
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0201
-Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
+Type : Push Button	Address : 641004	Cursor Order : 0201
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
 Text : 原點模式	Password : 0
 
 Node ID : 100100003	Position X : 352	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0202
-Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
+Type : Push Button	Address : 641001	Cursor Order : 0202
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
 Text : 啟動	Password : 0
 
-Node ID : 100100004	Position X : 516	Position Y : 669
+Node ID : 100100004	Position X : 514	Position Y : 669
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 0	Cursor Order : 0203
-Enable Mode : All	Level : 0	Input Mode : SWITCH
-Value : 0	Value 2 : 0	Icon : 
+Type : Push Button	Address : 641002	Cursor Order : 0203
+Enable Mode : All	Level : 0	Input Mode : HOLD
+Value : 1	Value 2 : 0	Icon : 
 Text : 暫停	Password : 0
 
 Node ID : 100100005	Position X : 680	Position Y : 669
@@ -330,4 +330,31 @@ Node ID : 1003000111	Position X : 737	Position Y : 548
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Text	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 0
+
+Node ID : 100300001	Position X : 193	Position Y : 629
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 641004	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 0	Min : 0	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 100300002	Position X : 360	Position Y : 631
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 641001	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 0	Min : 0	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
+
+Node ID : 100300003	Position X : 524	Position Y : 630
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Digital	Address : 641002	Value Type : Float
+Gain : 1	Base System : Dec	Data Type : NONE
+Max : 0	Min : 0	Max E.V. : 0
+Cursor Order : 0000	Enable Mode : All	Level : 0
+Integer Digits : 5	Precision : 3	Rev1 : 0
+Rev2 : 0	Rev3 : 0
 
