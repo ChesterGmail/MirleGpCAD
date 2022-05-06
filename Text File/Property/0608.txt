@@ -55,7 +55,7 @@ Type : Message Box	Address : 0	Display Type : Static
 
 Node ID : 608100001	Position X : 500	Position Y : 278
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644260	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
@@ -70,7 +70,7 @@ Type : Label	Text : mm
 
 Node ID : 608300001	Position X : 287	Position Y : 280
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : Float
+Type : Digital	Address : 644110	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 0	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -80,7 +80,7 @@ Rev2 : 0	Rev3 : 0
 Node ID : 608100042	Position X : 52	Position Y : 671
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1100
-Enable Mode : All	Level : 0	Page Name : 303
+Enable Mode : All	Level : 0	Page Name : 607
 Soft Key : Do not use	Icon : 	Text : 入料手臂Y軸
 Password : 0
 
@@ -90,7 +90,7 @@ Type : Label	Text : 入料軌道取料位置
 
 Node ID : 608300002	Position X : 287	Position Y : 341
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : Float
+Type : Digital	Address : 644111	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 0	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -107,7 +107,7 @@ Type : Label	Text : mm
 
 Node ID : 608300003	Position X : 287	Position Y : 401
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : Float
+Type : Digital	Address : 644112	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 0	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -124,21 +124,21 @@ Type : Label	Text : mm
 
 Node ID : 608100004	Position X : 500	Position Y : 336
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644261	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
 
 Node ID : 608100005	Position X : 500	Position Y : 398
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644262	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
 
 Node ID : 608100006	Position X : 500	Position Y : 463
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644263	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
@@ -149,7 +149,7 @@ Type : Label	Text : mm
 
 Node ID : 608300004	Position X : 287	Position Y : 465
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : Float
+Type : Digital	Address : 644113	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 0	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -162,7 +162,7 @@ Type : Label	Text : 料塔取/放料位置
 
 Node ID : 608300005	Position X : 287	Position Y : 526
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Digital	Address : 657143	Value Type : Float
+Type : Digital	Address : 644114	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
 Max : 0	Min : 0	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
@@ -179,7 +179,7 @@ Type : Label	Text : mm
 
 Node ID : 608100007	Position X : 500	Position Y : 521
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 657128	Cursor Order : 0000
+Type : Push Button	Address : 644264	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
@@ -194,21 +194,21 @@ Password : 0
 Node ID : 608100044	Position X : 283	Position Y : 671
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1100
-Enable Mode : All	Level : 0	Page Name : 303
+Enable Mode : All	Level : 0	Page Name : 608
 Soft Key : Do not use	Icon : 	Text : 出料手臂Y軸
 Password : 0
 
 Node ID : 608100046	Position X : 514	Position Y : 671
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1100
-Enable Mode : All	Level : 0	Page Name : 303
+Enable Mode : All	Level : 0	Page Name : 609
 Soft Key : Do not use	Icon : 	Text : 手臂Z軸
 Password : 0
 
 Node ID : 608100047	Position X : 745	Position Y : 671
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1100
-Enable Mode : All	Level : 0	Page Name : 303
+Enable Mode : All	Level : 0	Page Name : 610
 Soft Key : Do not use	Icon : 	Text : 手臂T軸
 Password : 0
 
@@ -225,4 +225,11 @@ Type : Push Button	Address : 644002	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 重新載入	Password : 0
+
+Node ID : 608100048	Position X : 335	Position Y : 154
+Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
+Type : Page Button	Address : 0	Cursor Order : 1101
+Enable Mode : All	Level : 0	Page Name : 312
+Soft Key : Do not use	Icon : 	Text : Jog介面
+Password : 0
 

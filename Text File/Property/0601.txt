@@ -55,8 +55,8 @@ Type : Message Box	Address : 0	Display Type : Static
 
 Node ID : 601100001	Position X : 367	Position Y : 277
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 644157	Cursor Order : 0000
-Enable Mode : All	Level : 0	Input Mode : HOLD
+Type : Push Button	Address : 644160	Cursor Order : 0000
+Enable Mode : All	Level : 0	Input Mode : SWITCH
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
 
@@ -80,42 +80,42 @@ Rev2 : 0	Rev3 : 0
 Node ID : 601100042	Position X : 52	Position Y : 674
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1100
-Enable Mode : All	Level : 0	Page Name : 303
+Enable Mode : All	Level : 0	Page Name : 601
 Soft Key : Do not use	Icon : 	Text : 料塔1 - T軸
 Password : 0
 
 Node ID : 601100043	Position X : 362	Position Y : 674
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1102
-Enable Mode : All	Level : 0	Page Name : 305
+Enable Mode : All	Level : 0	Page Name : 603
 Soft Key : Do not use	Icon : 	Text : 料塔3 - T軸
 Password : 0
 
 Node ID : 601100044	Position X : 207	Position Y : 675
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
-Enable Mode : All	Level : 0	Page Name : 304
+Enable Mode : All	Level : 0	Page Name : 602
 Soft Key : Do not use	Icon : 	Text : 料塔2 - T軸
 Password : 0
 
 Node ID : 601100046	Position X : 672	Position Y : 673
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
-Enable Mode : All	Level : 0	Page Name : 307
+Enable Mode : All	Level : 0	Page Name : 605
 Soft Key : Do not use	Icon : 	Text : 料塔5 - T軸
 Password : 0
 
 Node ID : 601100047	Position X : 517	Position Y : 674
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
-Enable Mode : All	Level : 0	Page Name : 306
+Enable Mode : All	Level : 0	Page Name : 604
 Soft Key : Do not use	Icon : 	Text : 料塔4 - T軸
 Password : 0
 
 Node ID : 601100048	Position X : 820	Position Y : 675
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1103
-Enable Mode : All	Level : 0	Page Name : 308
+Enable Mode : All	Level : 0	Page Name : 606
 Soft Key : Do not use	Icon : 	Text : 料塔6 - T軸
 Password : 0
 
@@ -155,21 +155,21 @@ Type : Label	Text : deg
 
 Node ID : 601100004	Position X : 367	Position Y : 336
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 644157	Cursor Order : 0000
+Type : Push Button	Address : 644161	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
 
 Node ID : 601100005	Position X : 367	Position Y : 398
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 644157	Cursor Order : 0000
+Type : Push Button	Address : 644162	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
 
 Node ID : 601100006	Position X : 367	Position Y : 463
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 644157	Cursor Order : 0000
+Type : Push Button	Address : 644163	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
@@ -200,19 +200,19 @@ Type : Label	Text : deg
 
 Node ID : 601100007	Position X : 367	Position Y : 521
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 644157	Cursor Order : 0000
+Type : Push Button	Address : 644164	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
 
 Node ID : 601100008	Position X : 367	Position Y : 583
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 644157	Cursor Order : 0000
+Type : Push Button	Address : 644165	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
 
-Node ID : 601100049	Position X : 850	Position Y : 23
+Node ID : 601100049	Position X : 849	Position Y : 23
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 0000
 Enable Mode : All	Level : 1	Page Name : 114
@@ -221,7 +221,7 @@ Password : 0
 
 Node ID : 601100009	Position X : 852	Position Y : 277
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 644157	Cursor Order : 0000
+Type : Push Button	Address : 644166	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
@@ -252,21 +252,21 @@ Type : Label	Text : deg
 
 Node ID : 6011000010	Position X : 852	Position Y : 335
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 644157	Cursor Order : 0000
+Type : Push Button	Address : 644167	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
 
 Node ID : 6011000011	Position X : 852	Position Y : 397
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 644157	Cursor Order : 0000
+Type : Push Button	Address : 644168	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
 
 Node ID : 6011000012	Position X : 852	Position Y : 462
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 644157	Cursor Order : 0000
+Type : Push Button	Address : 644169	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
@@ -297,14 +297,14 @@ Type : Label	Text : deg
 
 Node ID : 6011000013	Position X : 852	Position Y : 520
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 644157	Cursor Order : 0000
+Type : Push Button	Address : 644170	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
 
 Node ID : 6011000014	Position X : 852	Position Y : 582
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Push Button	Address : 644157	Cursor Order : 0000
+Type : Push Button	Address : 644171	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : HOLD
 Value : 1	Value 2 : 0	Icon : 
 Text : 取得當前點位	Password : 0
@@ -408,10 +408,10 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 6011000410	Position X : 292	Position Y : 153
+Node ID : 6011000410	Position X : 301	Position Y : 156
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
-Enable Mode : All	Level : 0	Page Name : 304
+Enable Mode : All	Level : 0	Page Name : 303
 Soft Key : Do not use	Icon : 	Text : Jog介面
 Password : 0
 
