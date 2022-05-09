@@ -408,7 +408,7 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 6011000410	Position X : 301	Position Y : 156
+Node ID : 6011000410	Position X : 292	Position Y : 153
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Page Button	Address : 0	Cursor Order : 1101
 Enable Mode : All	Level : 0	Page Name : 303

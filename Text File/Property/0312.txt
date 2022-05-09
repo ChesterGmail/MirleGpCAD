@@ -393,10 +393,10 @@ Type : Switch	Address : 657111	Cursor Order : 0000
 Enable Mode : All	Level : 0	Input Mode : SWITCH
 Input Value 1 : 0	Input Value 2 : 0	Mask : 0001
 
-Node ID : 3121000413	Position X : 849	Position Y : 23
+Node ID : 3121000413	Position X : 831	Position Y : 23
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 0000
-Enable Mode : All	Level : 1	Page Name : 608
-Soft Key : F16	Icon : return005.png	Text : 
+Type : Page Button	Address : 0	Cursor Order : 1101
+Enable Mode : All	Level : 0	Page Name : 608
+Soft Key : Do not use	Icon : 	Text : ±ÐÂI
 Password : 0
 

@@ -441,10 +441,10 @@ Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
 
-Node ID : 3031000413	Position X : 849	Position Y : 23
+Node ID : 3031000413	Position X : 831	Position Y : 23
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
-Type : Page Button	Address : 0	Cursor Order : 0000
-Enable Mode : All	Level : 1	Page Name : 601
-Soft Key : F16	Icon : return005.png	Text : 
+Type : Page Button	Address : 0	Cursor Order : 1101
+Enable Mode : All	Level : 0	Page Name : 601
+Soft Key : Do not use	Icon : 	Text : ±ÐÂI
 Password : 0
 

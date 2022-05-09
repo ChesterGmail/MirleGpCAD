@@ -72,7 +72,7 @@ Node ID : 608300001	Position X : 287	Position Y : 280
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 644110	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
+Max : 99999	Min : -99999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
@@ -92,7 +92,7 @@ Node ID : 608300002	Position X : 287	Position Y : 341
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 644111	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
+Max : 99999	Min : -99999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
@@ -109,7 +109,7 @@ Node ID : 608300003	Position X : 287	Position Y : 401
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 644112	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
+Max : 99999	Min : -99999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
@@ -151,7 +151,7 @@ Node ID : 608300004	Position X : 287	Position Y : 465
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 644113	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
+Max : 99999	Min : -99999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
@@ -164,7 +164,7 @@ Node ID : 608300005	Position X : 287	Position Y : 526
 Display Addr. : 0	Template Use : 	Mask(Display Addr.) : 0000
 Type : Digital	Address : 644114	Value Type : Float
 Gain : 1	Base System : Dec	Data Type : NONE
-Max : 0	Min : 0	Max E.V. : 0
+Max : 99999	Min : -99999	Max E.V. : 0
 Cursor Order : 0000	Enable Mode : All	Level : 0
 Integer Digits : 5	Precision : 3	Rev1 : 0
 Rev2 : 0	Rev3 : 0
